@@ -17,7 +17,7 @@ On Jan 3, 2009 the Bitcoin network went online with the first public block being
 
 It's the usual interventionism that they sell us as "in the name of peace - to install democracy" when in reality it's an imperialistic power grab financed with your tax money, in your name.
 
-This is possible with state money. Non-state money like bitcoin in self-custody gives agency back to the people. Bitcoin is an exit strategy, and this is what it was made for - money that can't be taken away from us to finance their wars..
+This is possible with state money. Non-state money like bitcoin in self-custody gives agency back to the people. Bitcoin is an exit strategy, and this is what it was made for - money that can't be taken away from us to finance their wars.
 
 ---
 <small>Sources:</small>
