@@ -27,7 +27,7 @@ Recently, one of my followers from Zambia asked, “Why has the price of bitcoin
 
 As you can see in the graph above, the recent bitcoin price drawdown is not the first of its kind in the history of Bitcoin. It’s not unusual that the price reaches a low in between two halving events, when the amount of newly-minted bitcoin is split in half, which occurs every four years.
 
-Although the volatility of bitcoin has gone [down over the years](https://anitaposch.com/bitcoin-volatility-over-time), these drawdowns have real-world implications if you can’t afford to lose money and are not able to hold bitcoin for the long-term.
+Although the volatility of bitcoin has gone [down over the years](https://anita.onl/bitcoin-volatility-over-time), these drawdowns have real-world implications if you can’t afford to lose money and are not able to hold bitcoin for the long-term.
 
 Bitcoin is a free market. The price of bitcoin is not centrally controlled. It’s defined by the supply and demand of bitcoin. If more people want to buy bitcoin than there are sellers, the price goes up and vice versa. Since single events, news, sentiments and the general economic situation influence people’s perception and willingness to spend as well as the possibility to save money, they also can influence the price of bitcoin.
 

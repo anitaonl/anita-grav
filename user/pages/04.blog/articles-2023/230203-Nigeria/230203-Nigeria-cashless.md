@@ -30,11 +30,11 @@ There are several possible reasons:
 
 ### Low bitcoin liquidity
 
-Since Nigeria was the leader in bitcoin adoption in Africa in 2022 and people are aware of the preciousness of bitcoin, they are not selling them with the result, that not enough bitcoin are available on the local market, a [situation which is even worse in Zimbabwe](https://anitaposch.com/insights-from-exchanging-bitcoin-peer-to-peer-in-zimbabwe).
+Since Nigeria was the leader in bitcoin adoption in Africa in 2022 and people are aware of the preciousness of bitcoin, they are not selling them with the result, that not enough bitcoin are available on the local market, a [situation which is even worse in Zimbabwe](https://anita.onl/insights-from-exchanging-bitcoin-peer-to-peer-in-zimbabwe).
 
 ### Supposedly a run on bitcoin
 
-Nigeria is not only the country with the highest crypto adoption in Africa, it has the [highest bitcoin adoption too](https://anitaposch.com/podcast-bitcoin-solves-financial-apartheid-168) as I was told by Paxful CEO Ray Youssef. 
+Nigeria is not only the country with the highest crypto adoption in Africa, it has the [highest bitcoin adoption too](https://anita.onl/podcast-bitcoin-solves-financial-apartheid-168) as I was told by Paxful CEO Ray Youssef. 
 
 ### The local currency has been losing value due to inflation
 

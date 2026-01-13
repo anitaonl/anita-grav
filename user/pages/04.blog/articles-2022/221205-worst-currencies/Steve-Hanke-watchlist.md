@@ -26,7 +26,7 @@ The inflation dashboard shows a similar picture. Zimbabwe leads with an annual i
 ![](_Hankes-inflation-dashboard-Nov22.png)
 [Source](https://twitter.com/steve_hanke/status/1598081942062174208/photo/1)
 
-Inflation, corruption and authoritarianism go often hand in hand as laid out in my article [Opposing the Corruptible Fiat System, Bitcoin Enforces Universal Human Rights](https://anitaposch.com/bitcoin-enforces-human-rights).
+Inflation, corruption and authoritarianism go often hand in hand as laid out in my article [Opposing the Corruptible Fiat System, Bitcoin Enforces Universal Human Rights](https://anita.onl/bitcoin-enforces-human-rights).
 
 ---
 

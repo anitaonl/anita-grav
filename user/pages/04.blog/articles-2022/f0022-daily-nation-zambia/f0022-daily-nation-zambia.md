@@ -7,7 +7,7 @@ routes:
 date: 2022-10-11 15:00
 dateformat: 'Y-m-d H:i'
 summary: While in Zambia I was interviewed by Buumba Cimbulu for Daily Nation "The People's Newspaper" of Zambia.
-thumbnail: _f0022-221006-daily-nation-zambia-posch.jpg
+thumbnail: _f0022-221006-daily-nation-zambia-.jpg
 template: article
 ---
 
@@ -16,4 +16,4 @@ template: article
 
 While in Zambia I was interviewed by Buumba Cimbulu for Daily Nation "The People's Newspaper" of Zambia. The resulting article was called "Learn about Bitcoin or be scammed". Would have made a nice book title too ;-)
 
-![Article in Daily Nation Zambia, October 6 2022](_f0022-221006-daily-nation-zambia-posch.jpg)
+![Article in Daily Nation Zambia, October 6 2022](_f0022-221006-daily-nation-zambia-.jpg)

@@ -60,7 +60,7 @@ Wer laufend Bitcoin verdient und ausgibt, verliert im Grunde nichts durch Kurssc
 
 Sehr unterschiedlich. In Afrika sind Nigeria, Kenia, Südafrika und Tansania die Vorreiter bei der Bitcoin-Adoption. Ich war kürzlich in Kenia, dort kann man alles mit Lightning Bitcoin bezahlen, die Tando App macht es möglich. Es ist eine Schnittstelle zum M-Pesa System, das 95% aller Bewohner Kenias benutzen. Das heißt, man kann vom Taxi, über die Lebensmittel bis hin zu Gebühren für Wasser und Strom alles mit Bitcoin zahlen. 
 
-In Mossel Bay in Südafrika gibt es seit 2021 ein Township in dem 30 Shops Bitcoin akzeptieren, da einige der Einheimischen Bitcoin verdienen und diese auch in ihrer Nachbarschaft ausgeben wollten. Als ich [Bitcoin Ekasi im Mai 2022 zum ersten Mal besucht hatte](https://anitaposch.com/ard-betastories), war es erst eine Handvoll Shops.
+In Mossel Bay in Südafrika gibt es seit 2021 ein Township in dem 30 Shops Bitcoin akzeptieren, da einige der Einheimischen Bitcoin verdienen und diese auch in ihrer Nachbarschaft ausgeben wollten. Als ich [Bitcoin Ekasi im Mai 2022 zum ersten Mal besucht hatte](https://anita.onl/ard-betastories), war es erst eine Handvoll Shops.
 
 Als ich 2020 zum ersten Mal nach Simbabwe und Botswana reiste, gab es eine oder zwei lokale Bildungsinitiativen auf dem gesamten afrikanischen Kontinent, heute sind es über 60 und das ist noch sehr ausbaufähig. 
 

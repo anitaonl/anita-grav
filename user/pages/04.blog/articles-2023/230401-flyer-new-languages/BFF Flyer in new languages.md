@@ -14,7 +14,7 @@ published: false
 
 # Bitcoin flyer in French, German, Slovak and Portuguese Brazilian
 
-Recently I updated the English version of the [Bitcoin flyer](https://anitaposch.com/bff-flyer-23). The Bitcoin flyer is a 2 page folder about the basic characteristics of Bitcoin and how one can use it. We at [BFF](https://bffbtc.org) wanted to offer free educational material to hand out at our meetups. Now our fabulous volunteer translators helped to translate it to Slovak, German, French and Portuguese Brazilian.
+Recently I updated the English version of the [Bitcoin flyer](https://anita.onl/bff-flyer-23). The Bitcoin flyer is a 2 page folder about the basic characteristics of Bitcoin and how one can use it. We at [BFF](https://bffbtc.org) wanted to offer free educational material to hand out at our meetups. Now our fabulous volunteer translators helped to translate it to Slovak, German, French and Portuguese Brazilian.
 
 ![](_BFF%20Flyer%20in%20new%20languages.jpeg)
 

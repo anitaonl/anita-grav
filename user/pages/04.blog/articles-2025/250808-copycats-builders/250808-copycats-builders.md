@@ -74,7 +74,7 @@ That said, there are privacy-preserving alternatives, but these currently requir
 
 ## What Bitcoin Needs From You
 
-We don’t need parrots, we need critical thinkers and builders who understand Bitcoin in all its depth to defend its permissionless, uncensorable, noninflatable system. Bitcoin is the only true alternative to the traditional financial system, which has brought us debt, crony capitalism, wealth inequality and is endangering open societies. We [need to defend Bitcoin](https://anitaposch.com/bitcoin-vs-wallstreet) because it’s our only shot at gaining access to a new, fairer system — and Bitcoin has a lot of enemies: the incumbents of the old system and those who want to capture Bitcoin within it.
+We don’t need parrots, we need critical thinkers and builders who understand Bitcoin in all its depth to defend its permissionless, uncensorable, noninflatable system. Bitcoin is the only true alternative to the traditional financial system, which has brought us debt, crony capitalism, wealth inequality and is endangering open societies. We [need to defend Bitcoin](https://anita.onl/bitcoin-vs-wallstreet) because it’s our only shot at gaining access to a new, fairer system — and Bitcoin has a lot of enemies: the incumbents of the old system and those who want to capture Bitcoin within it.
 
 There is this saying:
 
@@ -84,11 +84,11 @@ What you can do is to develop genuine expertise through deep study and applicati
 
 ## Useful Solutions By Locals For Locals
 
-What is needed are projects like [Tando in Kenya](https://anitaposch.com/tando-kenya), where you can pay anyone with bitcoin and the recipients receive Kenyan shillings directly in their M-Pesa account (a popular mobile money service in Kenya). It solves the problem that bitcoin has on the ground: I can receive bitcoin easily, but where can I spend it?
+What is needed are projects like [Tando in Kenya](https://anita.onl/tando-kenya), where you can pay anyone with bitcoin and the recipients receive Kenyan shillings directly in their M-Pesa account (a popular mobile money service in Kenya). It solves the problem that bitcoin has on the ground: I can receive bitcoin easily, but where can I spend it?
 
 The app also tackles the remittance challenge. A Kenyan bitcoin user in the diaspora can instantly send money, almost fee-free, to a relative in deep rural Kenya, even if that person doesn’t understand bitcoin or know how to use it. Tando removes that barrier by making bitcoin useful even for those who have never interacted with it directly.
 
-Another example is [Machankura](https://anitaposch.com/bitcoin-works-without-internet), a service developed in South Africa that allows people in Africa to send and receive bitcoin using simple feature phones — no internet required. This innovation is especially powerful in areas where smartphone access and data are limited. It enables people to participate in the bitcoin economy without needing a smartphone or internet connectivity.
+Another example is [Machankura](https://anita.onl/bitcoin-works-without-internet), a service developed in South Africa that allows people in Africa to send and receive bitcoin using simple feature phones — no internet required. This innovation is especially powerful in areas where smartphone access and data are limited. It enables people to participate in the bitcoin economy without needing a smartphone or internet connectivity.
 
 In South Africa, PickNPay — one of the country’s biggest retailers — integrated [MoneyBadger’s payment solution:](https://my.cracktheorange.com/adoption-africa/interview-carel-van-wyk/) You can pay with Lightning in all their stores for food, clothes and other goods, which adds immense value to [circular economies like Bitcoin Ekasi](https://my.cracktheorange.com/adoption-africa/interview-bitcoin-ekasi/). PickNPay did this because MoneyBadger wanted to further bitcoin’s adoption by enabling people to spend bitcoin, then proposed and presented a viable solution. Only *then* did PickNPay adopt it.
 

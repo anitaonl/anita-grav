@@ -8,7 +8,7 @@ metadata:
   'og:title': 'Anita'
   'og:description': 'anita.onl'
   'og:image': '/user/pages/01.home/_hero.jpg'
-  'og:url': 'https://anitaposch.com'
+  'og:url': 'https://anita.onl'
   'og:type': 'website'
   'og:site_name': 'Anita'
     

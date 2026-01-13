@@ -7,7 +7,7 @@ routes:
 date: 2022-10-31 11:40
 dateformat: 'Y-m-d H:i'
 summary: Trevor Ncube, a Zimbabwean media entrepreneur known all over Southern Africa, invited me to be a guest on his show 'In Conversation with Trevor' to discuss Bitcoin.
-thumbnail: _221031-conversation-trevor-ncube-anita-posch.jpg
+thumbnail: _221031-conversation-trevor-ncube-anita-.jpg
 template: article
 ---
 
@@ -21,7 +21,7 @@ Ncube was named among the 100 most influential people in Africa in 2012 and 201
 
 Trevor Ncube is Chairman of Alpha Media Holdings (AMH) based in Harare Zimbabwe, a company he co-founded 25 years ago. AMH owns four newspaper titles in Zimbabwe namely [NewsDay](https://www.newsday.co.zw/) (national daily), [Southern Eye](https://www.southerneye.co.zw/) (regional daily), [The Zimbabwe Independent](http://theindependent.co.zw/) (business weekly) and [The Standard](https://thestandard.newsday.co.zw/) (Sunday).
 
-![](_221031-conversation-trevor-ncube-anita-posch.jpg)
+![](_221031-conversation-trevor-ncube-anita-.jpg)
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25734&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 

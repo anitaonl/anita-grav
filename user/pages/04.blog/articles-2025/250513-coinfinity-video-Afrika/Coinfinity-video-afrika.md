@@ -13,7 +13,7 @@ template: article
 
 # Bitcoin Stories: Anita unterwegs in Afrika
 
-Die Coinfinity Bitcoin Stories zeigen die Highlights meines [Aufenthalts in Nairobi, einer der dynamischsten Bitcoin-Städte Afrikas](https://anitaposch.com/nairobi-journal-2024).
+Die Coinfinity Bitcoin Stories zeigen die Highlights meines [Aufenthalts in Nairobi, einer der dynamischsten Bitcoin-Städte Afrikas](https://anita.onl/nairobi-journal-2024).
 
 Dieses Video zeigt eindrucksvoll, wie stark und lebendig die Bitcoin-Adoption in Afrika ist - und warum wir im globalen Norden viel von diesen Communities lernen können. Jetzt ansehen!
 
@@ -27,4 +27,4 @@ Außerdem begleitet sie die Gründer von BitSacco ([schaue hier das ganze Interv
 
 Zum Abschluss geht’s zur größten Bitcoin-Konferenz Afrikas: Vorträge, Panels - und ein persönliches Treffen mit Jack Dorsey, dem Gründer von Twitter.
 
-Das Video beleuchtet einen Teil meiner Arbeit, hier geht es zu meinem vollständigen [Journal über alle Ereignisse in Nairobi](https://anitaposch.com/nairobi-journal-2024)!
+Das Video beleuchtet einen Teil meiner Arbeit, hier geht es zu meinem vollständigen [Journal über alle Ereignisse in Nairobi](https://anita.onl/nairobi-journal-2024)!

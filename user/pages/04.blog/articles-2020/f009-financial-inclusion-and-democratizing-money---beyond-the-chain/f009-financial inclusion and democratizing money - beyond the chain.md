@@ -7,7 +7,7 @@ routes:
 date: 2020-11-30 12:00
 dateformat: 'Y-m-d H:i'
 summary: Anita discussing why Bitcoin is democratizing money with Ethan Fast on the Nash podcast.
-thumbnail: _f009-nash-podcast-anita-posch.jpg
+thumbnail: _f009-nash-podcast-anita-.jpg
 template: article
 ---
 

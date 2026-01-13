@@ -13,14 +13,14 @@ template: article
 
 # Bitcoin Is the Wheel, Everything Else Is Sledges
 
-It's been 16 years since the [invention of Bitcoin, a peer-to-peer electronic cash system](https://anitaposch.com/bitcoin-vs-wallstreet), which is permissionless, global, neutral internet money that can be used to send value instantly from and to all places on earth and even in space. It does not need intermediaries to work, which frees it from all sorts of human intervention, censorship risk and regulatory hurdles. 
+It's been 16 years since the [invention of Bitcoin, a peer-to-peer electronic cash system](https://anita.onl/bitcoin-vs-wallstreet), which is permissionless, global, neutral internet money that can be used to send value instantly from and to all places on earth and even in space. It does not need intermediaries to work, which frees it from all sorts of human intervention, censorship risk and regulatory hurdles. 
 
 ![Billboards in Freetown, Sierra Leone by Random Institute](random-institute-v0l4L1DfAbw-unsplash.png)
 *<small>Image: Billboards in Freetown, Sierra Leone by Random Institute; unsplash</small>*
 
 It's the perfect solution to move value transnational with low fees in a non-discriminatory manner. Bitcoin just works. I can say this, because I have been using it for eight years now. I sent bitcoin from Zimbabwe to Kenya, from Germany to the USA, from Indonesia to Zambia, from South Africa to Austria and every transaction worked.
 
-Critics point to Bitcoin's price volatility, but for remittances and cross-border payments, the transfer time is measured in seconds to minutes - far less exposure than holding [local currencies subject to inflation, devaluation](https://anitaposch.com/worst-currencies-nov22) and an instrument of repression.
+Critics point to Bitcoin's price volatility, but for remittances and cross-border payments, the transfer time is measured in seconds to minutes - far less exposure than holding [local currencies subject to inflation, devaluation](https://anita.onl/worst-currencies-nov22) and an instrument of repression.
 
 Sledges cannot copy the properties of a wheel. Bitcoin's decentralization, censorship-resistance and the fact that it works without any intermediaries unleashes transfers of value in a frictionless and privacy preserving manner. The Lightning Network enables instant, low-cost payments while maintaining Bitcoin's core properties. It acts as the glue between on-chain high value settlements in bitcoin and fast and private payments with [Lightning bitcoin and Ecash](/difference-bitcoin-lightning-liquid-ecash). 
 

@@ -33,5 +33,5 @@ Thank you for your support and interest. Let's continue to explore and embrace t
 ## Learn & Support
 
 > * Become a member on my learning platform [Crack The Orange](https://cracktheorange.com) and learn more about Bitcoin and its transformative role.
-> * If you would like to support me and my work in the Global South, I appreciate [donations to Bitcoin for Fairness](https://anitaposch.com/donate).
+> * If you would like to support me and my work in the Global South, I appreciate [donations to Bitcoin for Fairness](https://anita.onl/donate).
 

@@ -13,9 +13,9 @@ template: article
 
 # Bitcoin Flyer in Swahili
 
-A few weeks ago I published the [Bitcoin flyer](https://anitaposch.com/bitcoin-flyer). A 2 page educational pamphlet about Bitcoin. While we were conducting Bitcoin meetups I felt that something was missing. I wanted to have something to give away, that people could take home and was easy and cheap to produce. Because the goal of BFF is to enable local communities to conduct their own meetups without support from outside.
+A few weeks ago I published the [Bitcoin flyer](https://anita.onl/bitcoin-flyer). A 2 page educational pamphlet about Bitcoin. While we were conducting Bitcoin meetups I felt that something was missing. I wanted to have something to give away, that people could take home and was easy and cheap to produce. Because the goal of BFF is to enable local communities to conduct their own meetups without support from outside.
 
-We asked volunteers to do translations. Now there are already [ten versions of the flyer. It can be downloaded](https://bffbtc.org/flyer) in English, German, Spanish, Portuguese, Dutch, Finnish, Italian, French, Catalan and thanks to [Marcel Lorraine from Bitcoin Dada](https://anitaposch.com/more-women-bitcoin) the first African language Swahili was added this week. 
+We asked volunteers to do translations. Now there are already [ten versions of the flyer. It can be downloaded](https://bffbtc.org/flyer) in English, German, Spanish, Portuguese, Dutch, Finnish, Italian, French, Catalan and thanks to [Marcel Lorraine from Bitcoin Dada](https://anita.onl/more-women-bitcoin) the first African language Swahili was added this week. 
 
 ## Swahili Is Spoken by Over 200 Million People
 

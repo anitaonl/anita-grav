@@ -13,7 +13,7 @@ template: article
 
 # Upgrade your existing Phoenix Wallet for Splicing
 
-Are you a beginner in the Bitcoin world, curious about fast and efficient Bitcoin payments? I highly recommend using the self-custody Lightning Wallet from Phoenix, a user-friendly option for those starting their Bitcoin journey. If you haven’t installed it yet, you can do it now with my [Phoenix Wallet tutorial](https://anitaposch.com/lightning-self-custody-phoenix) and you don't need to do the upgrade that's mentioned below.
+Are you a beginner in the Bitcoin world, curious about fast and efficient Bitcoin payments? I highly recommend using the self-custody Lightning Wallet from Phoenix, a user-friendly option for those starting their Bitcoin journey. If you haven’t installed it yet, you can do it now with my [Phoenix Wallet tutorial](https://anita.onl/lightning-self-custody-phoenix) and you don't need to do the upgrade that's mentioned below.
 
 I'll walk you through the process of upgrading your existing Phoenix Wallet to its latest version. [This update brings a key feature - the Auto Channel Management (splicing)](https://acinq.co/blog/phoenix-splicing-update).
 

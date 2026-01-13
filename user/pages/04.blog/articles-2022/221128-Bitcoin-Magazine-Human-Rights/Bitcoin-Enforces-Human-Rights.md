@@ -21,7 +21,7 @@ In 2022, European politicians formed an initiative with the goal of [banning pro
 
 In 2021, the co-founder of Ripple, which [advertises itself](https://ripple.com/xrp/) as having better qualities than bitcoin, [donated $5 million](https://bitcoinmagazine.com/culture/greenpeace-environment-attacks-help-bitcoin) to support Greenpeace USA with a campaign called “Clean Up the Code.” It attempts to lobby Bitcoin developers to change the mining mechanism from proof of work to proof of stake, which would supposedly reduce its power consumption by 99%. With Ethereum moving from proof of work to proof of stake recently, these actors feel they have seen their theory confirmed and are trying to lobby against Bitcoin even more.
 
-What they don’t mention is that the [differences between proof of work to proof of stake are huge](https://anitaposch.com/bitcoin-differences-proof-of-work-stake). These mechanisms have different goals and very different outcomes, which result in different properties of the cryptocurrencies they secure. In short: the immutability of proof of work is stronger than that of proof of stake. 
+What they don’t mention is that the [differences between proof of work to proof of stake are huge](https://anita.onl/bitcoin-differences-proof-of-work-stake). These mechanisms have different goals and very different outcomes, which result in different properties of the cryptocurrencies they secure. In short: the immutability of proof of work is stronger than that of proof of stake. 
 
 Proof of work is better at producing a robust, immutable blockchain that has a fair degree of decentralization and cannot be easily tampered with, even by very rich, very influential, very powerful organizations and entities. Proof of stake doesn’t have any of these goals. It has the goal of governance in an environmentally-friendly way that still maintains decentralization but allows some flexibility of a blockchain. In the short weeks after Ethereum’s switch, the overwhelming proportion of validators started to [censor transactions following the U.S. Office of Foreign Asset Control (OFAC) sanctions list](https://cointelegraph.com/news/ethereum-inches-even-closer-to-total-censorship-due-to-ofac-compliance).
 
@@ -235,9 +235,9 @@ Fourteen African countries which were colonized by France with about 200 million
 
 For the first time since the 1920s, Austrians and Germans are feeling the impact of inflation. [Ten percent was the peak in November 2022](https://www.trendingtopics.eu/energiekrise-inflation-in-oesterreich-steigt-auf-105-prozent/). [Energy prices in Europe are skyrocketing](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20221031-1). Friends in Austria are telling me that they won’t heat their flats this winter and are buying cheap food. They have “middle-class” jobs, they are well educated. Ten to 20 years ago, the jobs they are doing were paying enough to buy an apartment on credit, own a car and go on a holiday trip with the family. Those days are over.
 
-Compared to countries like [Zimbabwe with 500% inflation](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), or [Cuba with 135%](https://translatingcuba.com/food-prices-increased-in-cuba-by-52-percent-last-year/), [Turkey with 73.5%](https://www.nxtmine.com/economics/with-turkish-ppi-hitting-a-shocking-132-erdogan-goes-after-short-sellers-as-hyperinflation-craters-the-lira/) and so on, this is still bearable. Being in Zimbabwe, I always wonder how people survive these difficulties. The current inflation is only topped by the [hyperinflation in Zimbabwe around 2008](https://anitaposch.com/baby-i-m-a-billionaire) when the highest denominated banknote was “worth” $100 trillion.
+Compared to countries like [Zimbabwe with 500% inflation](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), or [Cuba with 135%](https://translatingcuba.com/food-prices-increased-in-cuba-by-52-percent-last-year/), [Turkey with 73.5%](https://www.nxtmine.com/economics/with-turkish-ppi-hitting-a-shocking-132-erdogan-goes-after-short-sellers-as-hyperinflation-craters-the-lira/) and so on, this is still bearable. Being in Zimbabwe, I always wonder how people survive these difficulties. The current inflation is only topped by the [hyperinflation in Zimbabwe around 2008](https://anita.onl/baby-i-m-a-billionaire) when the highest denominated banknote was “worth” $100 trillion.
 
-Just imagine that the value of your money is decreasing by 500% per month. The salaries of civil servants, doctors and teachers in Zimbabwe are around $300 per month, and they are paid in the Zimbabwe dollar. Saving money is completely impossible. Either you spend it immediately or you try to find someone who wants to exchange it to the U.S. dollar. Every day is centered around money management. [“What is the rate today?”](https://anitaposch.com/finding-the-best-deals-in-zimbabwe) might be the most used question after “Hello, how are you?” in Zimbabwe, followed by the decision of [“in which currency am I going to pay?”](https://anitaposch.com/shopping-with-two-currencies-in-zimbabwe)
+Just imagine that the value of your money is decreasing by 500% per month. The salaries of civil servants, doctors and teachers in Zimbabwe are around $300 per month, and they are paid in the Zimbabwe dollar. Saving money is completely impossible. Either you spend it immediately or you try to find someone who wants to exchange it to the U.S. dollar. Every day is centered around money management. [“What is the rate today?”](https://anita.onl/finding-the-best-deals-in-zimbabwe) might be the most used question after “Hello, how are you?” in Zimbabwe, followed by the decision of [“in which currency am I going to pay?”](https://anita.onl/shopping-with-two-currencies-in-zimbabwe)
 
 ![Zimbabwe the sad leader of the pack.](_17-inflation.png)
 [Source](https://twitter.com/steve_hanke/status/1562135077575954433/photo/1  )
@@ -251,7 +251,7 @@ During my first visit to Zimbabwe in 2020 I put together a [podcast series where
 
 #### How Bitcoin Fixes Inflation from Money Printing
 
-There will only ever be 21 million bitcoin. When I mention that in my [talks in Zimbabwe](https://anitaposch.com/newsday-zimbabwe), people immediately understand the use case. There will be no monetary inflation, which would render bitcoin to have less value. Yes, bitcoin’s value is volatile, that’s because its price is determined by supply and demand and there is simply not enough demand yet to stabilize the value. But nobody can inflate the maximum amount of bitcoin that will be available. Bitcoin can also not be forged like cash or gold.
+There will only ever be 21 million bitcoin. When I mention that in my [talks in Zimbabwe](https://anita.onl/newsday-zimbabwe), people immediately understand the use case. There will be no monetary inflation, which would render bitcoin to have less value. Yes, bitcoin’s value is volatile, that’s because its price is determined by supply and demand and there is simply not enough demand yet to stabilize the value. But nobody can inflate the maximum amount of bitcoin that will be available. Bitcoin can also not be forged like cash or gold.
 
 #### Corruption
 
@@ -281,7 +281,7 @@ Bitcoin is a neutral, global, borderless money. As an open protocol, it can be u
 You read that correctly: privacy is one of the human rights mentioned in the declaration. How can it be that our privacy is highly infringed not only by companies like Facebook, but also by the regulatory authorities? In the name of preventing money laundering and child abuse, we’re all under constant surveillance.
 
 ![The Right to Privacy](_14-art-12.png)
-[Source](https://anitaposch.com/bitcoin-human-rights-riga-2022)
+[Source](https://anita.onl/bitcoin-human-rights-riga-2022)
 
 Financial surveillance and control seem to be the goals of institutions like the BIS. In 2021, the general manager, Agustín Carstens, [said in regards to central bank digital currencies (CBDCs)](https://bitcoinist.com/the-bis-wants-absolute-control-of-your-money-via-central-bank-digital-currencies/):
 
@@ -292,7 +292,7 @@ Financial surveillance and control seem to be the goals of institutions like the
 Yet people arguing with me saying, "But I've got nothing to hide, it's ok, we need this control to fight criminals." 
 
 ![It's not about hiding something.](_16-privacy-policy.png)
-[Source](https://anitaposch.com/bitcoin-human-rights-riga-2022)
+[Source](https://anita.onl/bitcoin-human-rights-riga-2022)
 
 My answer: it’s not about having nothing to hide! Alone, this idea is pushing human rights activists, lesbians and gays, opposition members and so on under the suspicion that they have something to hide. No, they do not have anything to hide. Nonetheless, they are targets of violence, intimidation and prison and are facing death in many countries. That’s the reason why privacy is important.
 
@@ -306,7 +306,7 @@ Privacy is a luxury for most Africans. They are even more prone to data collecti
 
 Bitcoin’s privacy isn’t perfect, yet. New technologies like [PayJoins or Confidential Transactions](https://bitcoinmagazine.com/technical/list-of-bitcoin-privacy-proposals) will hopefully be implemented in the coming years. Payments on the Lightning Network are more private already. Wrapped Lightning invoices protect the recipient from being identified by custodians. With CoinJoins, you can already achieve a high level of privacy. In the future, this kind of protection needs to be the standard.
 
-Still, since Bitcoin is pseudonymous and many people in African countries use it peer to peer without know-your-customer (KYC) identification, it gives them more privacy than their bank or mobile money provider. In Zimbabwe, all digital transactions are [automatically taxed at 4%](https://anitaposch.com/bitcoin-insights-africa/). Every payment is traceable by the government since mobile money transactions are moving from one SIM card to the other and SIM users are registered.
+Still, since Bitcoin is pseudonymous and many people in African countries use it peer to peer without know-your-customer (KYC) identification, it gives them more privacy than their bank or mobile money provider. In Zimbabwe, all digital transactions are [automatically taxed at 4%](https://anita.onl/bitcoin-insights-africa/). Every payment is traceable by the government since mobile money transactions are moving from one SIM card to the other and SIM users are registered.
 
 Privacy is never zero or one. It’s on a scale. The privacy possible while using Bitcoin is higher than that of your credit card, but lower than that of using cash. There is definitely a lot of work to be done and it’s important to make Bitcoin on the base chain more private. But Bitcoin gives you plausible deniability already now. It protects one from being an easy target.
 
@@ -322,7 +322,7 @@ Similar cases to the below are not unique to Zimbabwe, but that is just the coun
 “Even schoolchildren have not been spared with reports suggesting that schools with yellow uniforms have been directed to abandon them and pick different colours,” [ZimEye](https://www.zimeye.net/2022/03/08/mnangagwa-bans-yellow-attire/) reported.
 
 ![](_21-political-prisoners.png)
-[Source](https://anitaposch.com/bitcoin-human-rights-riga-2022)
+[Source](https://anita.onl/bitcoin-human-rights-riga-2022)
 
 ## How Bitcoin fixes Freedom of Speech
 

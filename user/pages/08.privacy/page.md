@@ -143,5 +143,5 @@ We will use the information you provide on our mailing list to provide updates a
 
 ## Edit or delete your data
 
-Contact https://anitaposch.com/contact/ to verify, correct, or delete any of the information you’ve shared or simply use the link at the footer of any newsletter messages you receive from us to modify or delete your information.
+Contact https://anita.onl/contact/ to verify, correct, or delete any of the information you’ve shared or simply use the link at the footer of any newsletter messages you receive from us to modify or delete your information.
 

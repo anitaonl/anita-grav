@@ -17,8 +17,8 @@ template: article
 
 ## Kings of Leon released their new album as an NFT
 
-[!["Anita on Austrian radio FM4 about NFT"](assets/_W0018-NFT.jpg "Listen to the clip")](_anitaposchwhatisannft.mp3)
+[!["Anita on Austrian radio FM4 about NFT"](assets/_W0018-NFT.jpg "Listen to the clip")](_anitawhatisannft.mp3)
 
 At the moment I see a hype in the crypto space around NFTs, similar to the ICO hype of 2017. Although many people dismiss NFTs I think they do have potential in the digital space. You might not be able to reach true scarcity, because you can't prevent copies of the art piece, but you can prove that you are the owner of that one specific piece.
 
-![Audio What is an NFT](_anitaposchwhatisannft.mp3)
+![Audio What is an NFT](_anitawhatisannft.mp3)

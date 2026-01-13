@@ -15,7 +15,7 @@ template: article
 
 ## Why Bitcoin matters in Zimbabwe
 
-I'm a Bitcoin advocate, and in early 2020 I visited Zimbabwe believing that because of its history of hyperinflations it had ideal conditions for Bitcoin adoption. I was on a mission to learn how the local money system works and if Bitcoin had been used so far. I documented my experiences in a [six-part podcast documentary](https://anitaposch.com/bitcoin-zimbabwe-botswana). After spending 1.5 years total in Zimbabwe over the past five years, I've seen firsthand why this technology matters. On my most recent trip, I travelled from Harare to Bulawayo by bus to interview one farmer who's proving it works.
+I'm a Bitcoin advocate, and in early 2020 I visited Zimbabwe believing that because of its history of hyperinflations it had ideal conditions for Bitcoin adoption. I was on a mission to learn how the local money system works and if Bitcoin had been used so far. I documented my experiences in a [six-part podcast documentary](https://anita.onl/bitcoin-zimbabwe-botswana). After spending 1.5 years total in Zimbabwe over the past five years, I've seen firsthand why this technology matters. On my most recent trip, I travelled from Harare to Bulawayo by bus to interview one farmer who's proving it works.
 
 ### Inflation and financial control
 
@@ -41,13 +41,13 @@ There is a **lot of demand for bitcoin in Zimbabwe that cannot be fulfilled**. D
 
 Critics will immediately point to Bitcoin's volatility - and they're not wrong about the short-term price swings. That's why many Zimbabweans prefer stablecoins like USDT for daily transactions. Stablecoins are cryptocurrencies that promise to not lose any value. Almost every stablecoin is issued by a centralized entity making them prone to be controlled by governments, also stablecoins unlike bitcoin can't gain in value even more due to the fact they are pegged to national currencies they lose the same value through inflation over time.
 
-I learned that USDT Tether is the preferred cryptocurrency in Zimbabwe, because everyone wants to use the US dollar rather than the Zimbabwean currency - just like before the rise of crypto as everyone has been preferring USD in cash since 2009. Compared to bitcoin Tether gives you a short-term stable value and it can facilitate fast and cheap borderless payments with predictable fees. Farmer and business man Ethan understands this, but he trusts Bitcoin more because [it gives value, it is not just a payment system](https://anitaposch.com/bitcoin-wheel), cannot be inflated or controlled by nation states and it is censorship-resistant - all **properties that USDT does not have**.
+I learned that USDT Tether is the preferred cryptocurrency in Zimbabwe, because everyone wants to use the US dollar rather than the Zimbabwean currency - just like before the rise of crypto as everyone has been preferring USD in cash since 2009. Compared to bitcoin Tether gives you a short-term stable value and it can facilitate fast and cheap borderless payments with predictable fees. Farmer and business man Ethan understands this, but he trusts Bitcoin more because [it gives value, it is not just a payment system](https://anita.onl/bitcoin-wheel), cannot be inflated or controlled by nation states and it is censorship-resistant - all **properties that USDT does not have**.
 
-For Ethan, the solution is straightforward: earn and hold Bitcoin long-term, spend bitcoin only when you really need to (It's possible to [cash out bitcoin to USD peer to peer](https://anitaposch.com/insights-from-exchanging-bitcoin-peer-to-peer-in-zimbabwe)). When he needs to cover expenses, he spends traditional currency from his farm operations, only converting Bitcoin when absolutely necessary. This way, the farm benefits from Bitcoin's appreciation over time while short-term volatility becomes irrelevant to the bulk of his savings.
+For Ethan, the solution is straightforward: earn and hold Bitcoin long-term, spend bitcoin only when you really need to (It's possible to [cash out bitcoin to USD peer to peer](https://anita.onl/insights-from-exchanging-bitcoin-peer-to-peer-in-zimbabwe)). When he needs to cover expenses, he spends traditional currency from his farm operations, only converting Bitcoin when absolutely necessary. This way, the farm benefits from Bitcoin's appreciation over time while short-term volatility becomes irrelevant to the bulk of his savings.
 
 ## From solar to sats
 
-A few years ago, Ethan contacted me from the UK. In a podcast interview [we spoke about how he wanted to try mining bitcoin on his remote farm in Zimbabwe using solar power](https://anitaposch.com/podcast-btc-mining-zimbabwe). With some donated second-hand machines and free sunlight, the experiment worked.
+A few years ago, Ethan contacted me from the UK. In a podcast interview [we spoke about how he wanted to try mining bitcoin on his remote farm in Zimbabwe using solar power](https://anita.onl/podcast-btc-mining-zimbabwe). With some donated second-hand machines and free sunlight, the experiment worked.
 
 At first, the miners earned around 25 to 30 dollars a week. But more important than the money was the proof:
 

@@ -24,4 +24,4 @@ You can download, print, and use the [Flyer PDF](https://bffbtc.org/wp-content/u
 
 You like my work and my efforts with Bitcoin for Fairness to foster Bitcoin adoption on the ground in the Global South? It’s all community powered and funded by donations.
 
-Feel free to support with a [donation](https://anitaposch.com/donate), via [https://geyser.fund/project/bff](https://geyser.fund/project/bff) or by [sponsoring a scholarship](https://my.cracktheorange.com/scholarship/) for aspiring educators and community builders.
+Feel free to support with a [donation](https://anita.onl/donate), via [https://geyser.fund/project/bff](https://geyser.fund/project/bff) or by [sponsoring a scholarship](https://my.cracktheorange.com/scholarship/) for aspiring educators and community builders.

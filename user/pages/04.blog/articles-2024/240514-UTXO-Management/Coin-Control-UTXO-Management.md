@@ -15,7 +15,7 @@ template: article
  
 On-chain transaction fees will be rising with the increasing popularity of Bitcoin. This makes Coin Control aka UTXO management a critical tool to prevent the worst case, that your UTXOs are smaller than the fee to pay for spending them, basically wiping out your bitcoin funds.
 
-Your Bitcoin wallet manages thousands of [Bitcoin addresses](https://anitaposch.com/bitcoin-address-formats) for you. Every transaction you conduct creates a new Unspent Transaction Output (UTXO) that includes an amount of bitcoin you own. By carefully selecting which UTXOs are being used in a new transaction you can save on fees and influence your privacy. 
+Your Bitcoin wallet manages thousands of [Bitcoin addresses](https://anita.onl/bitcoin-address-formats) for you. Every transaction you conduct creates a new Unspent Transaction Output (UTXO) that includes an amount of bitcoin you own. By carefully selecting which UTXOs are being used in a new transaction you can save on fees and influence your privacy. 
 
 Most wallets do not offer Coin Control tools for the users, instead they select the UTXOs automatically leaving you with no possibility to manage your UTXOs effectively. BlueWallet, Sparrow Wallet, Trezor Suite and BitBox02 allow you to take control and do it manually (these are the ones I have used so far). 
 

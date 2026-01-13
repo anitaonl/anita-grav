@@ -33,9 +33,9 @@ Transferring your bitcoin from a hot wallet to a more secure cold storage option
 Sending Bitcoin directly from Green to BitBox02 requires transaction fees, but it's the best way to ensure your funds are secure. To minimize the fees:
 
 * **Choose The Right Time:** Transaction fees fluctuate based on network activity. Transferring your funds during less busy times can lead to lower fees.
-* **Coin Control:** Some wallets allow you to select which UTXOs to use for a transaction. By choosing the larger chunks of bitcoin, you can reduce the number of inputs and the fee. [Learn more about UTXO management here](https://anitaposch.com/coincontrol-utxo-management)
+* **Coin Control:** Some wallets allow you to select which UTXOs to use for a transaction. By choosing the larger chunks of bitcoin, you can reduce the number of inputs and the fee. [Learn more about UTXO management here](https://anita.onl/coincontrol-utxo-management)
 * **Accumulate Before Transferring:** Save up a larger amount in your hot wallet before moving it to cold storage to reduce the frequency of transactions and associated fees.
-* **Use Swap Services:** For small amounts, consider using swap services like boltz.exchange to convert your bitcoin to Lightning or Liquid, which offer lower transaction fees than on-chain Bitcoin for small transactions. [Learn more about stack smaller amounts of bitcoin efficiently here](https://anitaposch.com/save-small-amounts-bitcoin)
+* **Use Swap Services:** For small amounts, consider using swap services like boltz.exchange to convert your bitcoin to Lightning or Liquid, which offer lower transaction fees than on-chain Bitcoin for small transactions. [Learn more about stack smaller amounts of bitcoin efficiently here](https://anita.onl/save-small-amounts-bitcoin)
 
 ### Seed Phrase Import - Not Recommended
 A method to transfer funds without paying transaction fees is by importing the seed phrase from your Green wallet into your BitBox02. This is turning your cold storage into a hot storage, meaning all the security of the hardware wallet gets lost as you're importing a seed phrase that was stored on a hot device previously and could be compromised.

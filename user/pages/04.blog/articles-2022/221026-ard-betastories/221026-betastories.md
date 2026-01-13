@@ -7,7 +7,7 @@ routes:
 date: 2022-10-26 13:30
 dateformat: 'Y-m-d H:i'
 summary: German TV ARD published a Bitcoin documentary and followed me to South Africa where I worked with Bitcoin Ekasi in May 2022.
-thumbnail: _221026-betastories-anita-posch.jpg
+thumbnail: _221026-betastories-anita-.jpg
 template: article
 ---
 
@@ -22,7 +22,7 @@ Other outcomes of this journey are: 
 * we set up [Trezor hardware wallets](https://trezor.com) with the Ekasi team; the hardware wallets are now securing the shop owners bitcoin.
 
 Here you can watch the documentary in German (until 25 October 2027):
-[![](_221026-betastories-anita-posch.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
+[![](_221026-betastories-anita-.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
 
 
 ---

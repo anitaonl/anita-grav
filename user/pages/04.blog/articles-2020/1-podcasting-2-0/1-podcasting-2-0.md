@@ -13,7 +13,7 @@ template: article
 
 # Value 4 Value and Podcasting 2.0: How to earn bitcoin with content creation
 
-Anita presents how you can build a self-sustaining decentralized ecosystem for podcasting with bitcoin. [Podcasting 2.0](https://anitaposch.com/bitcoin-co-podcast-one-of-the-first-to-enable-streaming-money/) is an open movement that was initiated by the “podfather” Adam Curry and developer Dave Jones. Learn about the business of podcasting and how you can set up your own podcast tribe in combination with a Lightning Node in the Sphinx Chat app.
+Anita presents how you can build a self-sustaining decentralized ecosystem for podcasting with bitcoin. [Podcasting 2.0](https://anita.onl/bitcoin-co-podcast-one-of-the-first-to-enable-streaming-money/) is an open movement that was initiated by the “podfather” Adam Curry and developer Dave Jones. Learn about the business of podcasting and how you can set up your own podcast tribe in combination with a Lightning Node in the Sphinx Chat app.
 
 Goals are
 

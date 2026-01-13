@@ -7,7 +7,7 @@ routes:
 date: 2022-10-26 13:30
 dateformat: 'Y-m-d H:i'
 summary: Die deutschen Fernsehsender ARD und BR haben eine Bitcoin-Dokumentation veröffentlicht, für die sie Anita nach Südafrika begleitet haben, wo sie im Mai 2022 mit Bitcoin Ekasi gearbeitet hat.
-thumbnail: _221026-betastories-anita-posch.jpg
+thumbnail: _221026-betastories-anita-.jpg
 template: article
 ---
 
@@ -24,7 +24,7 @@ Weitere Ergebnisse dieser Reise sind:
 
 Hier ist die Dokumentation auf Deutsch (bis zum 25. Oktober 2027 verfügbar):
 
-[![](_221026-betastories-anita-posch.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
+[![](_221026-betastories-anita-.jpg)](https://www.ardmediathek.de/video/beta-stories-schoene-neue-kryptowelt/folge-1-bitcoin-die-grosse-verheissung-s01-e01/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzBlOTdjYzQ2LTI4MGMtNDlhZC1iMTkwLWNiY2FiNDcyNTRjOA)
 
 ---
 Sie mögen Anita's Arbeit und Bemühungen mit [Bitcoin for Fairness](https://bffbtc.org), die Bitcoin-Adoption im Globalen Süden zu fördern? Alles wird ausschließlich über Spenden finanziert. Falls Sie dazu beitragen möchten, [bitte spenden Sie hier](https://anita.link/donate) oder senden Sie direkt sats an unsere Lightning-Adresse: bffbtc@getalby.com.

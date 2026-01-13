@@ -7,7 +7,7 @@ routes:
 date: 2021-02-15 12:00
 dateformat: 'Y-m-d H:i'
 summary: How and why are companies adopting bitcoin?
-thumbnail: _anita-posch-500-2.jpg
+thumbnail: _anita--500-2.jpg
 template: article
 ---
 

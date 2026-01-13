@@ -23,7 +23,7 @@ AQUA was originally developed by Blockstream and transitioned to JAN3, a company
 
 ## Exploring AQUA's Key Features
 
-* **Multi-Asset Wallet:** Additional to bitcoin, AQUA also supports Lightning, handles Liquid assets, and USDt. (Learn more about the differences in this [non-technical explainer](https://anitaposch.com/difference-bitcoin-lightning-liquid-ecash-2)
+* **Multi-Asset Wallet:** Additional to bitcoin, AQUA also supports Lightning, handles Liquid assets, and USDt. (Learn more about the differences in this [non-technical explainer](https://anita.onl/difference-bitcoin-lightning-liquid-ecash-2)
 * **Useful For Users in the Global South:** Particularly in regions like Zimbabwe or Argentina, where stablecoins like USDT are preferred by many due to their stability compared to local currencies, AQUA presents a promising solution for managing different digital assets in a single wallet.
 * **Integrated Swapping Feature:** AQUA introduces an effortless swapping feature, allowing users to seamlessly exchange between bitcoin, Lightning, Liquid and USDt. This built-in functionality is made possible through the integration of [boltz.exchange](https://boltz.exchange/) and simplifies the process of managing different asset types.
 

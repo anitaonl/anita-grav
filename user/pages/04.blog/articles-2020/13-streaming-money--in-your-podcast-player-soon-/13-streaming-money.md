@@ -7,7 +7,7 @@ routes:
 date: 2020-11-11 12:00
 dateformat: 'Y-m-d H:i'
 summary: Streaming money is coming to content creators. That means no paywalls, but the possibility to receive donations.
-thumbnail: _anita-posch-show-cover-700.png
+thumbnail: _anita--show-cover-700.png
 template: article
 ---
 

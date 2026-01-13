@@ -28,7 +28,7 @@ One of my highlights this year was the Freedom Money workshop I conducted during
 
 ### Launch of Crack The Orange
 
-I ended 2022 with the commitment to [“build a community site with online courses and education around non-KYC bitcoin, privacy tools and, of course, self-custody in 2023”](https://anitaposch.com/bitcoin-africa-review-2022). And I did it. In January, I started gathering ideas for a name, creating a business model for online courses, and combined this with a scholarship program. In August, [Crack The Orange](https://cracktheorange.com) was launched - 3 months later than planned, because of my traveling and speaking engagements, and with high ambitions. Since the launch, we received over 70 scholarship applications from Bitcoin educators and community builders from African countries, but also from Latin America and Indonesia. The goal of the scholarship program is to build the next generation of educators to scale knowledge and adoption through peer to peer education.
+I ended 2022 with the commitment to [“build a community site with online courses and education around non-KYC bitcoin, privacy tools and, of course, self-custody in 2023”](https://anita.onl/bitcoin-africa-review-2022). And I did it. In January, I started gathering ideas for a name, creating a business model for online courses, and combined this with a scholarship program. In August, [Crack The Orange](https://cracktheorange.com) was launched - 3 months later than planned, because of my traveling and speaking engagements, and with high ambitions. Since the launch, we received over 70 scholarship applications from Bitcoin educators and community builders from African countries, but also from Latin America and Indonesia. The goal of the scholarship program is to build the next generation of educators to scale knowledge and adoption through peer to peer education.
 
 ### My work during 2023
 
@@ -38,9 +38,9 @@ I ended 2022 with the commitment to [“build a community site with online cours
 ![](_beautiful-Zimbabwe-1.jpeg)
 
 
-I was staying in Zimbabwe the first months of 2023, working on ideas and content for my online course and learning platform Crack The Orange. In that time, I also gave an [online lecture for Les Femmes Orange, a “women in Bitcoin community”](https://anitaposch.com/bitcoin-geld-menschen) in Germany. 
+I was staying in Zimbabwe the first months of 2023, working on ideas and content for my online course and learning platform Crack The Orange. In that time, I also gave an [online lecture for Les Femmes Orange, a “women in Bitcoin community”](https://anita.onl/bitcoin-geld-menschen) in Germany. 
 
-In the same month the [Lightning Node that we brought to Zambia](https://anitaposch.com/zambia-bitcoin-node) in October 2022 went online.
+In the same month the [Lightning Node that we brought to Zambia](https://anita.onl/zambia-bitcoin-node) in October 2022 went online.
 
 #### **February**
 
@@ -48,7 +48,7 @@ In the same month the [Lightning Node that we brought to Zambia](https://anitapo
 
 In February 2023 I dedicated a lot of time into testing Lightning wallets in rural Zimbabwe with minimal phone signal. My goal was to find out if it’s possible to self-custody Lightning with an easy to use wallet. The [results showed that it was possible to use Phoenix Wallet](https://bitcoinmagazine.com/culture/top-bitcoin-lightning-wallets-in-slow-internet). 
 
-Furthermore, my [book (L)earn Bitcoin - read by a Zimbabwean, was published as an audio book](https://anitaposch.com/learn-bitcoin-audiobook).
+Furthermore, my [book (L)earn Bitcoin - read by a Zimbabwean, was published as an audio book](https://anita.onl/learn-bitcoin-audiobook).
 
 #### **March**
 
@@ -93,13 +93,13 @@ In May, the outreach of the BFF Flyer expanded even more with its translation in
 ![Keynote Pizza Day Prague](_Pizza-Day-Prague-keynote-2023.jpeg)
 ![Panel Pizza Day Prague](_230521-Pizza-Day-Prague-Panel.jpeg)
 
-A highlight of the month was [presenting a keynote at Pizza Day Prague](https://anitaposch.com/cypherpunks-talk-prague-23) from May 18th to 19th. This event was a fantastic opportunity to share my perspectives about how Bitcoin represents human rights and acts as a tool for civil resistance and empowerment.
+A highlight of the month was [presenting a keynote at Pizza Day Prague](https://anita.onl/cypherpunks-talk-prague-23) from May 18th to 19th. This event was a fantastic opportunity to share my perspectives about how Bitcoin represents human rights and acts as a tool for civil resistance and empowerment.
 
 #### **June**
 
 **Keynote in Prague**
 
-![Keynote at BTC Prague](_Bitcoin-empowers-Africa-Africans-empower-Bitcoin-Anita-Posch.jpeg)
+![Keynote at BTC Prague](_Bitcoin-empowers-Africa-Africans-empower-Bitcoin-Anita-.jpeg)
 
 In June, I had the pleasure to attend BTC Prague, where I held a [keynote about ‘Bitcoin Empowers Africa and Africans empower Bitcoin’](https://www.youtube.com/watch?v=LY1UG1KSKew), sharing insights on the symbiotic relationship between a continent on the rise and fair money. 
 
@@ -146,15 +146,15 @@ In October, my schedule was filled with very diverse and impactful engagements i
 
 ![Keynote Plan B Lugano](_Lugano-Keynote.jpeg)
 
-Following this, on October 20th, [I attended Lugano Plan B, where I had the honor of delivering a keynote speech](https://anitaposch.com/africans-empower-bitcoin), sharing why Bitcoin is a game-changer for Africa and how the enormous contributions of the African community are helping Bitcoin development and adoption globally.
+Following this, on October 20th, [I attended Lugano Plan B, where I had the honor of delivering a keynote speech](https://anita.onl/africans-empower-bitcoin), sharing why Bitcoin is a game-changer for Africa and how the enormous contributions of the African community are helping Bitcoin development and adoption globally.
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/CExOwVQYHNg" title="Bitcoin Empowers Africa and Africans Empower Bitcoin | Plan ₿ Forum 2023 | Lugano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-My journey continued with my participation in the Bitcoin Indonesia Conference between October 26th and 28th. There, [I gave a beginner-friendly 'Bitcoin 101 - Know Your Basics’' talk](https://anitaposch.com/bitcoin-know-your-basics), which offered a comprehensive introduction to Bitcoin and provided the necessary knowledge to safely navigate the Bitcoin ecosystem. 
+My journey continued with my participation in the Bitcoin Indonesia Conference between October 26th and 28th. There, [I gave a beginner-friendly 'Bitcoin 101 - Know Your Basics’' talk](https://anita.onl/bitcoin-know-your-basics), which offered a comprehensive introduction to Bitcoin and provided the necessary knowledge to safely navigate the Bitcoin ecosystem. 
 
 <iframe width="100%" height="473" src="https://www.youtube.com/embed/HAeGSSIhdqs?si=6pDiIeIqnutROGax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The month concluded with [my guest appearance on the German 'Fast & Curious' podcast](https://anitaposch.com/bitcoin-hype-oder-wert) on October 30th, where I had the opportunity to discuss various aspects of Bitcoin and its impact in a more financial context. This format was a great chance to reach out to a German-speaking audience of people that are usually not so much involved in the Bitcoin community.  
+The month concluded with [my guest appearance on the German 'Fast & Curious' podcast](https://anita.onl/bitcoin-hype-oder-wert) on October 30th, where I had the opportunity to discuss various aspects of Bitcoin and its impact in a more financial context. This format was a great chance to reach out to a German-speaking audience of people that are usually not so much involved in the Bitcoin community.  
 
 #### **November**
 
@@ -170,7 +170,7 @@ I ended the month with a [Bitcoin for Fairness meetup in Accra, Ghana](https://b
 
 In December, I attended the Africa Bitcoin Conference in Accra, Ghana. In my keynote, I focused on how Africa is empowering Bitcoin and the important role Bitcoin plays in African countries struggling with inflation and authoritarian government control. I emphasized the growing adoption of Bitcoin across the continent and its thriving community - also thanks to the work and support from our Bitcoin For Fairness initiative. Additionally, I facilitated a beginners workshop as part of the program in Accra. After that I traveled to Zimbabwe to continue my efforts to share knowledge about financial sovereignty. 
 
-A personal highlight of the month was being recognized as the [7th most impactful African Bitcoiner of the year](https://anitaposch.com/impactful-african-bitcoiner-2023), an honor that is humbling and underscores my commitment to the Bitcoin community.
+A personal highlight of the month was being recognized as the [7th most impactful African Bitcoiner of the year](https://anita.onl/impactful-african-bitcoiner-2023), an honor that is humbling and underscores my commitment to the Bitcoin community.
 
 <a id="learning"></a>
 ## My Biggest Learnings This Year
@@ -210,4 +210,4 @@ Together we have the power to carry the torch of financial freedom forward!
 > Learn & Support
 > * Subscribe to my weekly newsletter: [The Orange Journal](https://anita.link/news)
 > * Become a member on my learning platform [Crack The Orange](https://cracktheorange.com) and learn more about Bitcoin.
-> *If you would like to support me and my work in the Global South, I appreciate [donations to Bitcoin for Fairness](https://anitaposch.com/donate).
+> *If you would like to support me and my work in the Global South, I appreciate [donations to Bitcoin for Fairness](https://anita.onl/donate).

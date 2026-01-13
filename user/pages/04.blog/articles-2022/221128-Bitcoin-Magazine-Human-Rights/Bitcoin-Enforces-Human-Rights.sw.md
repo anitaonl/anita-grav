@@ -13,7 +13,7 @@ template: article
 
 # Bitcoin ni Dhamira ya Kupinga Udhalimu wa Fedha - Na inalenga kulinda Haki za Binadamu Duniani Kote
 
-> Unaweza Sikiliza makala hii kupitia [episode 166 "How Bitcoin Enforces Human Rights"](https://anitaposch.com/podcast-bitcoin-enforces-human-rights-166).
+> Unaweza Sikiliza makala hii kupitia [episode 166 "How Bitcoin Enforces Human Rights"](https://anita.onl/podcast-bitcoin-enforces-human-rights-166).
 
 Mnamo 2022, wanasiasa wa Uropa waliunda mpango kwa lengo la [Kupiga marufuku Uchimbaji wa Bitcoin](https://www.coindesk.com/policy/2021/11/02/unpacking-europes-looming-mica-crypto-regulation/) kwa sababu ya matumizi yake makubwa ya umeme. Lengo la msingi ni kulaumu Bitcoin kwa kuharibu mazingira, wakati ni - kama wanavyodai - ni zana tu ya uvumi usio na maana.
 ![](_Bitcoin-Human-Rights.png)
@@ -22,7 +22,7 @@ Mnamo 2022, wanasiasa wa Uropa waliunda mpango kwa lengo la [Kupiga marufuku Uch
 
 Mnamo 2021, mwanzilishi mwenza wa Ripple, ambayo [kama ilivyo tangazwa](https://ripple.com/xrp/) kuwa na sifa bora kuliko bitcoin, [ilichangiwa dola za kimarekani milioni 5](https://bitcoinmagazine.com/culture/greenpeace-environment-attacks-help-bitcoin) kusaidia Greenpeace USA na kampeni inayoitwa "Safisha Kanuni." Inajaribu kushawishi watengenezaji wa Bitcoin kubadilisha utaratibu wa uchimbaji madini kutoka kwa uthibitisho wa kazi hadi uthibitisho wa hisa, ambayo ingepunguza matumizi yake ya nguvu kwa 99%. Pamoja na Ethereum kuhama kutoka kwa uthibitisho wa kazi hadi uthibitisho wa hisa hivi karibuni, watendaji hawa wanahisi wameona nadharia yao imethibitishwa na wanajaribu kushawishi dhidi ya Bitcoin hata zaidi.
 
-Kitu ambacho hawakukitaja ni [tofauti baina ya Uthibitisho wa Kazi na Uthibitisho wa uekaji wa Hisa kama dhamana](https://anitaposch.com/bitcoin-differences-proof-of-work-stake). Mbinu hizi zina malengo tofauti na matokeo tofauti kabisa, ambayo husababisha tofauti katika sifa za sarafu za kidijitali zinazozilinda. Kwa ufupi: uthibitisho wa kazi (proof of work) una uthabiti mkubwa zaidi kuliko uthibitisho wa hisa (proof of stake). 
+Kitu ambacho hawakukitaja ni [tofauti baina ya Uthibitisho wa Kazi na Uthibitisho wa uekaji wa Hisa kama dhamana](https://anita.onl/bitcoin-differences-proof-of-work-stake). Mbinu hizi zina malengo tofauti na matokeo tofauti kabisa, ambayo husababisha tofauti katika sifa za sarafu za kidijitali zinazozilinda. Kwa ufupi: uthibitisho wa kazi (proof of work) una uthabiti mkubwa zaidi kuliko uthibitisho wa hisa (proof of stake). 
 
 Uthibitisho wa kazi (proof of work) ni bora zaidi katika kuunda blockchain imara na isiyoweza kubadilishwa, ambayo ina kiwango cha haki cha ugatuaji na haiwezi kuchezewa kwa urahisi hata na taasisi au mashirika yenye utajiri, ushawishi, na mamlaka makubwa. Uthibitisho wa hisa (proof of stake) hauna malengo haya. Lengo lake ni kusimamia mtandao kwa njia rafiki kwa mazingira huku ukidumisha ugatuaji, lakini pia kuruhusu blockchain kubadilika kwa kiasi fulani. Katika wiki chache tu baada ya Ethereum kubadili mfumo wake, asilimia kubwa ya walidhihirishaji (validators) ilianza [asilimia kubwa ya walidhihirishaji (validators) ilianza kuzuia miamala kwa kufuata orodha ya vikwazo ya Ofisi ya Udhibiti wa Mali za Kigeni ya Marekani (OFAC)](https://cointelegraph.com/news/ethereum-inches-even-closer-to-total-censorship-due-to-ofac-compliance).
 
@@ -229,9 +229,9 @@ Nchi kumi na nne za Afrika ambazo zilikuwa koloni za Ufaransa, zenye watu takrib
 
 kwa mara ya kwanza tangu miaka ya 1920, Waustri na Wajerumani wanahisi athari za mfumuko wa bei [Asilimia 1o ndo kiwango cha juu mpaka 2022](https://www.trendingtopics.eu/energiekrise-inflation-in-oesterreich-steigt-auf-105-prozent/). [Bei za nishati Ulaya zinaongezeka kwa kasi isiyo ya kawaida](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20221031-1). Marafiki zangu huko Austria wananieleza kuwa hawawezi kutumia joto katika vyumba vyao msimu huu wa baridi na wananunua chakula cha bei nafuu. Wana kazi za "tabaka la kati," wameelimika vizuri. Miaka kumi hadi ishirini iliyopita, kazi wanazofanya zilitosha kununua nyumba kwa mkopo, kumiliki gari na kwenda likizo na familia. Siku hizo zimepita..
 
-Ikilinganishwa na nchi kama [Zimbabwe yenye 500% mfumuko wa Bei](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), or [Cuba with 135%](https://translatingcuba.com/food-prices-increased-in-cuba-by-52-percent-last-year/), [Uturuki yenye  73.5%](https://www.nxtmine.com/economics/with-turkish-ppi-hitting-a-shocking-132-erdogan-goes-after-short-sellers-as-hyperinflation-craters-the-lira/)na kadhalika, bado inaweza kuvumiliwa. Nikiwa Zimbabwe, huwa najiuliza watu wanawezaje kuishi na changamoto hizi. Mfumuko wa bei wa sasa unazidiwa tu na. [mfumuko wa bei wa juu sana (hyperinflation) uliojitokeza Zimbabwe takriban mwaka 2008](https://anitaposch.com/baby-i-m-a-billionaire) wakati karatasi ya thamani kubwa zaidi ilikuwa “inathamani” dola trilioni 100.
+Ikilinganishwa na nchi kama [Zimbabwe yenye 500% mfumuko wa Bei](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), or [Cuba with 135%](https://translatingcuba.com/food-prices-increased-in-cuba-by-52-percent-last-year/), [Uturuki yenye  73.5%](https://www.nxtmine.com/economics/with-turkish-ppi-hitting-a-shocking-132-erdogan-goes-after-short-sellers-as-hyperinflation-craters-the-lira/)na kadhalika, bado inaweza kuvumiliwa. Nikiwa Zimbabwe, huwa najiuliza watu wanawezaje kuishi na changamoto hizi. Mfumuko wa bei wa sasa unazidiwa tu na. [mfumuko wa bei wa juu sana (hyperinflation) uliojitokeza Zimbabwe takriban mwaka 2008](https://anita.onl/baby-i-m-a-billionaire) wakati karatasi ya thamani kubwa zaidi ilikuwa “inathamani” dola trilioni 100.
 
-Fikiria tu thamani ya pesa zako inapungua kwa asilimia 500 kwa mwezi. Misaada ya wafanyakazi wa umma, madaktari na walimu Zimbabwe ni takriban dola 300 kwa mwezi, na malipo yao hufanyika kwa dola ya Zimbabwe. Kuokoa pesa ni jambo lisilowezekana kabisa. Au unatumia papo hapo au unajaribu kupata mtu anayetaka kubadilisha pesa hizo kwa dola za Marekani. Kila siku inalenga usimamizi wa fedha [“Kwa Sasa(leo) ipo katikakiwango gani?”](https://anitaposch.com/finding-the-best-deals-in-zimbabwe) inaweza kuwa swali linalotumika zaidi baada ya “Habari, uko aje?” nchini Zimbabwe, ikifuatiwa na uamuzi wa [“Kwa pesa aina naweza kulipa vizuri?”](https://anitaposch.com/shopping-with-two-currencies-in-zimbabwe)
+Fikiria tu thamani ya pesa zako inapungua kwa asilimia 500 kwa mwezi. Misaada ya wafanyakazi wa umma, madaktari na walimu Zimbabwe ni takriban dola 300 kwa mwezi, na malipo yao hufanyika kwa dola ya Zimbabwe. Kuokoa pesa ni jambo lisilowezekana kabisa. Au unatumia papo hapo au unajaribu kupata mtu anayetaka kubadilisha pesa hizo kwa dola za Marekani. Kila siku inalenga usimamizi wa fedha [“Kwa Sasa(leo) ipo katikakiwango gani?”](https://anita.onl/finding-the-best-deals-in-zimbabwe) inaweza kuwa swali linalotumika zaidi baada ya “Habari, uko aje?” nchini Zimbabwe, ikifuatiwa na uamuzi wa [“Kwa pesa aina naweza kulipa vizuri?”](https://anita.onl/shopping-with-two-currencies-in-zimbabwe)
 
 ![Zimbabwe, kiongozi wa huzuni katika kundi kubwa.](_17-inflation.png)
 [Source](https://twitter.com/steve_hanke/status/1562135077575954433/photo/1  )
@@ -245,7 +245,7 @@ Wakati wa ziara yangu ya kwanza Zimbabwe mwaka 2020, niliandaa[mfululizo wa podc
 
 #### Jinsi Bitcoin Inavyopambana na Mfumuko wa Bei Unaosababishwa na Uchapaji wa Fedha
 
-Kutakuwa na Bitcoin milioni 21 tu kamwe. Nilipongelea katika.[Maongezi ndani Zimbabwe](https://anitaposch.com/newsday-zimbabwe), watu huelewa mara moja matumizi yake. Hakutakuwa na mfumuko wa fedha, ambao ungefanya Bitcoin kuwa na thamani ndogo. Ndiyo, thamani ya Bitcoin ni tete, hiyo ni kwa sababu bei yake huamuliwa na usambazaji na mahitaji, na bado mahitaji hayatoshi kudumisha thamani thabiti. Lakini hakuna mtu anayeweza kuongeza idadi ya juu kabisa ya Bitcoin itakayotolewa. Bitcoin pia haiwezi kuundwa bandia kama fedha taslimu au dhahabu.
+Kutakuwa na Bitcoin milioni 21 tu kamwe. Nilipongelea katika.[Maongezi ndani Zimbabwe](https://anita.onl/newsday-zimbabwe), watu huelewa mara moja matumizi yake. Hakutakuwa na mfumuko wa fedha, ambao ungefanya Bitcoin kuwa na thamani ndogo. Ndiyo, thamani ya Bitcoin ni tete, hiyo ni kwa sababu bei yake huamuliwa na usambazaji na mahitaji, na bado mahitaji hayatoshi kudumisha thamani thabiti. Lakini hakuna mtu anayeweza kuongeza idadi ya juu kabisa ya Bitcoin itakayotolewa. Bitcoin pia haiwezi kuundwa bandia kama fedha taslimu au dhahabu.
 
 #### Rushwa(Ubadhirifu)
 
@@ -273,7 +273,7 @@ Bitcoin ni fedha isiyoegemea upande wowote, ya kimataifa na isiyo na mipaka. Kam
 
 Umesoma vizuri: faragha ni moja ya haki za binadamu zilizotajwa katika azimio hilo. Inawezekanaje kwamba faragha yetu inakiukwa kwa kiwango kikubwa, si tu na kampuni kama Facebook, bali pia na mamlaka za udhibiti? Kwa jina la kupambana na utakatishaji wa fedha na unyanyasaji wa watoto, sisi sote tunafuatiliwa kila wakati
 ![Haki ya Faragha](_14-art-12.png)
-[Source](https://anitaposch.com/bitcoin-human-rights-riga-2022)
+[Source](https://anita.onl/bitcoin-human-rights-riga-2022)
 
 Ufuatiliaji na udhibiti wa kifedha vinaonekana kuwa ndio malengo ya taasisi kama BIS. Mwaka 2021, Meneja Mkuu wa taasisi hiyo, Agustín Carstens., [alisema kuhusu sarafu za kidijitali za benki kuu (CBDCs](https://bitcoinist.com/the-bis-wants-absolute-control-of-your-money-via-central-bank-digital-currencies/):
 
@@ -284,7 +284,7 @@ Ufuatiliaji na udhibiti wa kifedha vinaonekana kuwa ndio malengo ya taasisi kama
 Hata hivyo, watu hunibishia wakisema, “Lakini mimi sina cha kuficha, ni sawa tu, tunahitaji udhibiti huu ili kupambana na wahalifu" 
 
 ![Faragha sio tu kuhusu kuficha kitu.](_16-privacy-policy.png)
-[Source](https://anitaposch.com/bitcoin-human-rights-riga-2022)
+[Source](https://anita.onl/bitcoin-human-rights-riga-2022)
 
 Jibu langu: si suala la kutokuwa na cha kuficha! Wazo hili peke yake linawasukuma wanaharakati wa haki za binadamu, wapenzi wa jinsia moja (wanawake kwa wanawake na wanaume kwa wanaume), wanachama wa upinzani na wengine wengi kuwa chini ya mashaka kwamba wana jambo la kuficha. La hasha, hawana cha kuficha. Hata hivyo, wanakuwa waathirika wa vurugu, vitisho, vifungo, na wanakabiliwa na hatari ya kifo katika nchi nyingi. Hii ndiyo sababu kwanini faragha ni muhimu sana.
 
@@ -298,7 +298,7 @@ Faragha ni anasa kwa Waafrika wengi. Wao wako hatarini zaidi kukusanyiwa taarifa
 
 Faragha ya Bitcoin bado haijakamilika kikamilifu. Teknolojia mpya kama vile.[PayJoins au Miamala ya Sir](https://bitcoinmagazine.com/technical/list-of-bitcoin-privacy-proposals) zinatarajiwa kutekelezwa katika miaka ijayo. Malipo kupitia Mtandao wa Lightning tayari yana faragha zaidi. Ankara za Lightning zilizounganishwa (wrapped invoices) hulinda mpokeaji asitambulike na watoa huduma wa kidijitali. Kwa kutumia CoinJoins, unaweza tayari kupata kiwango cha juu cha faragha. Katika siku zijazo, aina hii ya ulinzi inapaswa kuwa kiwango cha kawaida.
 
-Hata hivyo, kwa kuwa Bitcoin ni ya jina-bandia (pseudonymous) na watu wengi katika nchi za Afrika huitumia kwa njia ya moja kwa moja ya mtu kwa mtu (peer to peer) bila utambulisho wa lazima (KYC), huwapa faragha zaidi kuliko benki au watoa huduma za fedha za simu. Nchini Zimbabwe, miamala yote ya kidijitali [ainatozwa kodi ya asilimia 4%](https://anitaposch.com/bitcoin-insights-africa/).Kila malipo yanaweza kufuatiliwa na serikali kwa sababu miamala ya fedha kwa njia ya simu huhamia kutoka laini moja ya simu kwenda nyingine, na watumiaji wa SIM wamesajiliwa.
+Hata hivyo, kwa kuwa Bitcoin ni ya jina-bandia (pseudonymous) na watu wengi katika nchi za Afrika huitumia kwa njia ya moja kwa moja ya mtu kwa mtu (peer to peer) bila utambulisho wa lazima (KYC), huwapa faragha zaidi kuliko benki au watoa huduma za fedha za simu. Nchini Zimbabwe, miamala yote ya kidijitali [ainatozwa kodi ya asilimia 4%](https://anita.onl/bitcoin-insights-africa/).Kila malipo yanaweza kufuatiliwa na serikali kwa sababu miamala ya fedha kwa njia ya simu huhamia kutoka laini moja ya simu kwenda nyingine, na watumiaji wa SIM wamesajiliwa.
 
 Faragha haiko katika kiwango cha sifuri au moja. Iko kwenye mizani. Faragha unayoweza kupata unapoitumia Bitcoin ni ya juu kuliko ile ya kadi ya mkopo, lakini ni ya chini kuliko ile ya kutumia fedha taslimu. Bila shaka, bado kuna kazi kubwa ya kufanya, na ni muhimu kufanya Bitcoin katika mnyororo wa msingi (base chain) kuwa ya faragha zaidi. Hata hivyo, Bitcoin tayari inakupa uwezo wa kukanusha kwa hoja ya msingi (plausible deniability). Inakulinda dhidi ya kuwa mlengwa rahisi.
 
@@ -314,7 +314,7 @@ Matukio kama haya yaliyo hapa chini si ya kipekee kwa Zimbabwe, lakini ndiyo nch
 “Hata wanafunzi wa shule za msingi hawakuepuka katazo hili,kuwa kuna ripoti zinazodai kuwa shule zenye sare za rangi ya njano zimeelekezwa kuziacha na kuchagua rangi nyingine. [ZimEye](https://www.zimeye.net/2022/03/08/mnangagwa-bans-yellow-attire/) reported.
 
 ![](_21-political-prisoners.png)
-[chanzo](https://anitaposch.com/bitcoin-human-rights-riga-2022)
+[chanzo](https://anita.onl/bitcoin-human-rights-riga-2022)
 
 ## Namna Bitcoin Inavyosaidia Kulinda Uhuru wa Maon
 
