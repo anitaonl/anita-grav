@@ -1,7 +1,7 @@
 ---
 title: The Little Things
 taxonomy:
-    tags: [Blog, Dailyishish]
+    tags: [Blog, Dailyish]
 routes:
     default: '/the-little-things'
 date: 2026-01-10 12:00
