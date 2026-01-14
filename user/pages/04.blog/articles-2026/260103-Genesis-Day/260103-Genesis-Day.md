@@ -23,5 +23,3 @@ This is possible with state money. Non-state money like bitcoin in self-custody 
 <small>Sources:</small>
 <small>[US attacks Venezuela](https://www.theguardian.com/world/2026/jan/03/why-trump-us-attacked-caracas-captured-venezuela-president-nicolas-maduro); [Strikes on Nigeria](https://edition.cnn.com/2025/12/26/africa/trump-christmas-strike-jabo-nigeria-latam-intl)</small>
 
-
-![Anita on power, agency and tools](Anita-Power-Agency-Tools.jpg)

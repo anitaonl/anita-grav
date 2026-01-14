@@ -1,7 +1,7 @@
 ---
 title: Hardware Devices for Bitcoin Storage
 taxonomy:
-    tags: [Blog, Daily, Learn Bitcoin, Tools, Wallets]
+    tags: [Blog, Dailyish, Learn Bitcoin, Tools, Wallets]
 routes:
     default: '/hardware-wallets-bitcoin'
 date: 2026-01-09 12:00
@@ -40,7 +40,3 @@ In addition to the device, the vendors provide wallet software to manage your co
 
 > This article appears in my Bitcoin book, which will be released in a new edition in 2026.
 
-
----
-
-![Anita on power, agency and tools](Anita-Power-Agency-Tools.jpg)

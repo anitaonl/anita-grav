@@ -1,7 +1,7 @@
 ---
 title: Bitchat - Enabling Agency
 taxonomy:
-    tags: [Blog, Daily, Tools]
+    tags: [Blog, Dailyish, Tools]
 routes:
     default: '/bitchat'
 date: 2026-01-06 12:00
@@ -33,7 +33,3 @@ Fun fact: In 1997 the name "Bluetooth" was proposed for the short-range wireless
 [Apple Store](https://apps.apple.com/us/app/bitchat-mesh/id6748219622)
 [GitHub](https://github.com/permissionlesstech/bitchat)
 
-
----
-
-![Anita on power, agency and tools](Anita-Power-Agency-Tools.jpg)

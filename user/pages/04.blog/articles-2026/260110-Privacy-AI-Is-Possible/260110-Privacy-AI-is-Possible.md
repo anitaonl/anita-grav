@@ -1,7 +1,7 @@
 ---
 title: Privacy AI Is Possible
 taxonomy:
-    tags: [Blog, Daily, AI, Tools]
+    tags: [Blog, Dailyish, AI, Tools]
 routes:
     default: '/privacy-ai-is-possible'
 date: 2026-01-10 12:00
@@ -51,6 +51,3 @@ Maple AI states that communications are encrypted locally on your device before 
 
 I want AI as a tool, not as a trap.
 
----
-
-![Anita on power, agency and tools](Anita-Power-Agency-Tools.jpg)

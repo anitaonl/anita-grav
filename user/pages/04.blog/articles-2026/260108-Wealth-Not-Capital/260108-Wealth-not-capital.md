@@ -1,7 +1,7 @@
 ---
 title: Wealth - Not Capital
 taxonomy:
-    tags: [Blog, Daily]
+    tags: [Blog, Dailyish]
 routes:
     default: '/wealth-not-capital'
 date: 2026-01-08 12:00
@@ -17,6 +17,3 @@ Capital is fleeting, Wealth is permanent.
 
 Having enough is a choice. Choose wisely.
 
----
-
-![Anita on power, agency and tools](Anita-Power-Agency-Tools.jpg)
