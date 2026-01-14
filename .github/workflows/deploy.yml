@@ -44,5 +44,5 @@ jobs:
           EXCLUDE: "/user/themes/anitatheme/node_modules/, .ddev, /.git/, /.github/, /user/accounts, /user/config/security.yaml, /webserver-configs, /backup, /cache, /images, /tmp, CHANGELOG.md"
           SCRIPT_AFTER: |
             echo "script after run"
-            cd anitaposch.com
+            cd anita.onl
             php bin/grav cache
