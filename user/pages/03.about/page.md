@@ -67,6 +67,6 @@ Images are licensed under a [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 |  | |
 | ------ | ----------- |
-| [![Anita - For light background .png](_Anita--Logo-white-bg.png?resize=150,150 "Anita - For light background .png")](_Anita--Logo-white-bg.png?target=_blank) | [Download - Anita - For light background .png](_Anita--Logo-white-bg.png?target=_blank) |
-| [![Anita - For dark background .png](_Anita--Logo-black-bg.png?resize=150,150 "Anita - For dark background .png")](_Anita--Logo-black-bg.png?target=_blank) | [Download - Anita - For dark background .png](_Anita--Logo-black-bg.png?target=_blank)  |
+| [![Anita - For light background .png](anita-logo.png?resize=150,150 "Anita - For light background .png")](anita-logo.png?target=_blank) | [Download - Anita - For light background .png](anita-logo.png?target=_blank) |
+| [![Anita - For dark background .png](anita-logo-white.png?resize=150,150 "Anita - For dark background .png")](anita-logo-white.png?target=_blank) | [Download - Anita - For dark background .png](anita-logo-white.png?target=_blank)  |
 | | |
