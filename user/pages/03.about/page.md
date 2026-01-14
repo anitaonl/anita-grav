@@ -12,7 +12,7 @@ Anita's focus is on promoting Freedom Tech like Bitcoin and Nostr, which empower
 
 > "Sounds illogical, but by using Bitcoin you support human rights globally and help to make the world more fair." - Anita
 
-![Anita](_anita-posch-500.jpg)
+![Anita](_anita--500.jpg)
 
 Anita has worked with the [Human Rights Foundation](https://hrf.org) at the Oslo Freedom Forum and other events to teach the leaders of large grassroots organizations about Freedom Tech best practices and Bitcoin use-cases. Anita also regularly tests popular Bitcoin and Lightning applications in difficult environments with poor internet connectivity, and grades them, providing a valuable window into pain points for developers.
 
@@ -34,7 +34,7 @@ Bitcoin is money from the people, for the people. Its mathematical rules can't b
 
 ## Social Media Platforms <a id="social-media"></a>
 
-Anita is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) as her main place to post and comment, she is using [Bluesky](https://bsky.app/profile/anitaposch.bsky.social), sometimes [Twitter](https://twitter.com/anitaposch) (less and less since Elon Musk's take over) and very seldom [LinkedIn](https://www.linkedin.com/in/anitaposch/). Find over 400 videos by Anita on [YouTube](https://www.youtube.com/anitaposch) and her work on [GitHub](https://github.com/anitaposch) and [Medium](https://medium.com/@anitaposch).
+Anita is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) as her main place to post and comment, she is using [Bluesky](https://bsky.app/profile/anita.link), sometimes [Twitter](https://twitter.com/anitaonl) (less and less since Elon Musk's take over) and very seldom [LinkedIn](https://www.linkedin.com/in/anitaonl/). Find over 400 videos by Anita on [YouTube](https://www.youtube.com/anitaonl) and her work on [GitHub](https://github.com/anitaonl) and [Medium](https://medium.com/@anitaposch).
 
 > Anita **is NOT on** Instagram, Facebook, Telegram, TikTok or any other platform and she **never asks you to invest, for your trades** or similar.
 
