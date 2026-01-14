@@ -15,4 +15,4 @@ template: article
 
 Find the [interview with Techtrends Zambia here](https://www.techtrends.co.zm/meet-anita-posch-bitcoin-author-educator-and-podcaster/)
 
-[![](_anita-posch-zambia.png)](https://www.techtrends.co.zm/meet-anita-posch-bitcoin-author-educator-and-podcaster/)
+[![](_anita--zambia.png)](https://www.techtrends.co.zm/meet-anita-posch-bitcoin-author-educator-and-podcaster/)
