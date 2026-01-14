@@ -7,7 +7,7 @@ routes:
 date: 2022-04-06 12:00
 dateformat: 'Y-m-d H:i'
 summary: I joined Stephan Livera to talk about my trip to Zimbabwe and Zambia in March 2022.
-thumbnail: _anita-posch-stephan-livera.png
+thumbnail: _anita--stephan-livera.png
 template: article
 ---
 

@@ -7,7 +7,7 @@ routes:
 date: 2022-08-24 12:00
 dateformat: 'Y-m-d H:i'
 summary: I joined Peter McCormack to talk about the challenges Africans face using Bitcoin, and the numerous innovative Bitcoin initiatives happening.
-thumbnail: _f0018-anita-posch-whatbitcoindid.png
+thumbnail: _f0018-anita--whatbitcoindid.png
 template: article
 ---
 
