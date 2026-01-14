@@ -49,11 +49,11 @@ I hadn't tested it, but I had the impression that Android is handling the low in
 
 I did two tests, one at Lake Mutirikwi and one in Great Zimbabwe. I announced on Twitter that I'm going to send bitcoin to the first three people sending me an invoice.
 
-https://twitter.com/AnitaPosch/status/1621815009817788422
+https://twitter.com/anitaonl/status/1621815009817788422
 
 I did the first couple of tests at the dam of Lake Mutirikwi. I tested Breez, Zeus and Blue Wallet on an iPhone and Phoenix, Zap on an Android device. The following day I did some more tests.
 
-https://twitter.com/AnitaPosch/status/1622213731970064385
+https://twitter.com/anitaonl/status/1622213731970064385
 
 
 ## Lightning Wallets

@@ -17,7 +17,7 @@ In 2020 the EndSARS movement against police brutality took place. The Nigerian F
 
 > “We had previously spoken about how Bitcoin is good because your government may shut your bank account down but it was all sort of theoretical but in the last month we were actually living through this. All this stuff we have been saying is actually true and we should be putting a lot of our money or at least enough where you can survive and control it.” – Ire Aderinokun, Nigerian Feminist Coalition
 
-Listen to my [interview with Damilola Odufuwa and Ire Aderinokun Co-Founders of the Nigerian Feminist Coalition](https://twitter.com/AnitaPosch/status/1583058568525516801)
+Listen to my [interview with Damilola Odufuwa and Ire Aderinokun Co-Founders of the Nigerian Feminist Coalition](https://twitter.com/anitaonl/status/1583058568525516801)
 
 <iframe src="https://www.vodio.fr/frameplay.php?idref=25655&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 

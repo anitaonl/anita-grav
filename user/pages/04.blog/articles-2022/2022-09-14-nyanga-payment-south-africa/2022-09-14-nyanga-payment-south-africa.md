@@ -62,7 +62,7 @@ Last but not least: as soon as one receives the payment with Access Forex one ha
 
 I was writing on Twitter that I was sure that it was the first payment from that remote area directly from a Lightning node to South Africa. I received some laughs from Zimbabweans in the comments on Twitter, who told me that I haven't been the first one. Of course I know that Zimbabweans have been using bitcoin already. But I still believe that I was the first with that special setting. Anyhow. It's not important who was first. It's great that I found out that the people living in that rural area are using bitcoin.
 
-https://twitter.com/AnitaPosch/status/1570502853575450626
+https://twitter.com/anitaonl/status/1570502853575450626
 
 
 

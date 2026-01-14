@@ -39,7 +39,7 @@ It is the only cryptocurrency that is truly permissionless, censorship resistant
 Thamzin was asking where he should invest, because trading is killing him. I understand that and it is a very clever move not to trade. If you are not a professional trader, it is like going to the casino. You might win something, but most of us will lose real big.
 <blockquote class="twitter-tweet">
 <p dir="ltr" lang="en">This is why I always say to newbies: do not trade... <a href="https://t.co/NHiuMY0sdp">https://t.co/NHiuMY0sdp</a></p>
-— Anita ✊🏼🎤🏳️‍🌈⚡️🔑🏊🏻🚴‍♂️⚖️☮️😷 (@AnitaPosch) <a href="https://twitter.com/AnitaPosch/status/1299991255515123712?ref_src=twsrc%5Etfw">August 30, 2020</a></blockquote>
+— Anita ✊🏼🎤🏳️‍🌈⚡️🔑🏊🏻🚴‍♂️⚖️☮️😷 (@anitaonl) <a href="https://twitter.com/anitaonl/status/1299991255515123712?ref_src=twsrc%5Etfw">August 30, 2020</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

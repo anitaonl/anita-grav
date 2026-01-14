@@ -18,7 +18,7 @@ Today I was preparing for the panel on Digital Rights at the Forum on Internet F
 ![Meeting with Emmanuel who is organizing my talk at the University of Zambia](_2022-09-28-emmanuel.jpg)
 
 In the afternoon I was giving an interview for the QfM morning show. It will be broadcasted on Thursday morning. 
-https://twitter.com/AnitaPosch/status/1575187882431619077
+https://twitter.com/anitaonl/status/1575187882431619077
 ![Guest at QfM Zambia for their morning show](_2022-09-28-qfm-tv-zambia.jpg)
 
 

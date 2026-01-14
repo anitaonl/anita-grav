@@ -62,7 +62,7 @@ Real proof of work means people actually using bitcoin to save, spend, remit or 
 
 Bitcoin education requires critical thinking, not repetition. While open source courses and ready-made slide decks are incredibly useful starting points, especially for new educators or those working in low-resource settings, true understanding means explaining concepts in your own words and contextualizing them for your specific audience.
 
-At [Bitcoin for Fairness](https://www.youtube.com/c/AnitaPosch), we observe participants running through our [Crack the Orange course](https://my.cracktheorange.com/scholarship/) in a short time just to get certificates. We have been rewarding course completion with sats, but are reconsidering due to the fact that participants seem to be motivated more by rewards than actual learning.
+At [Bitcoin for Fairness](https://www.youtube.com/c/anitaonl), we observe participants running through our [Crack the Orange course](https://my.cracktheorange.com/scholarship/) in a short time just to get certificates. We have been rewarding course completion with sats, but are reconsidering due to the fact that participants seem to be motivated more by rewards than actual learning.
 
 Too many Bitcoiners simply repeat what they read on social media, focusing on institutional adoption, investment narratives and “number go up” messaging. They share memes from Michael Saylor or other rich investors and insiders who made their money in the traditional (exclusionary!) financial system and have zero interest in solving the challenges on the ground, lowering wealth inequality or allowing access to global finance for disadvantaged groups or people in the Global South.
 

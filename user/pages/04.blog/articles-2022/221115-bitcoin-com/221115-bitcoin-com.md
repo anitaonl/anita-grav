@@ -34,7 +34,7 @@ And. If Bitcoin.com were true Bitcoiners, they wouldn't issue a token on Ethereu
 
 ![Just don't.](_verse-token.png)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If it hasn&#39;t been clear to you that <br>Bitcoin dot com is NOT Bitcoin (but <a href="https://t.co/SLnhvoctfP">https://t.co/SLnhvoctfP</a> is) <br>then it should be clear now. <a href="https://t.co/K4x0byUSq2">pic.twitter.com/K4x0byUSq2</a></p>&mdash; Anita ⚡🏳️‍🌈 Bitcoin for Fairness (@AnitaPosch) <a href="https://twitter.com/AnitaPosch/status/1592441604396441601?ref_src=twsrc%5Etfw">November 15, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If it hasn&#39;t been clear to you that <br>Bitcoin dot com is NOT Bitcoin (but <a href="https://t.co/SLnhvoctfP">https://t.co/SLnhvoctfP</a> is) <br>then it should be clear now. <a href="https://t.co/K4x0byUSq2">pic.twitter.com/K4x0byUSq2</a></p>&mdash; Anita ⚡🏳️‍🌈 Bitcoin for Fairness (@anitaonl) <a href="https://twitter.com/anitaonl/status/1592441604396441601?ref_src=twsrc%5Etfw">November 15, 2022</a></blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

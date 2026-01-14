@@ -21,7 +21,7 @@ Newsday Zimbabwe has 640k followers on Twitter and is one of the bigger newspape
 
 ![](_anita-posch-newsday-zimbabwe.png)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shared with 670k followers of NewsDay <a href="https://twitter.com/hashtag/Zimbabwe?src=hash&amp;ref_src=twsrc%5Etfw">#Zimbabwe</a>.<br><br>Probably nothing. <a href="https://t.co/dwn5wi8p5F">https://t.co/dwn5wi8p5F</a></p>&mdash; Anita ⚡🏳️‍🌈 Bitcoin for Fairness (@AnitaPosch) <a href="https://twitter.com/AnitaPosch/status/1588486255972876288?ref_src=twsrc%5Etfw">November 4, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shared with 670k followers of NewsDay <a href="https://twitter.com/hashtag/Zimbabwe?src=hash&amp;ref_src=twsrc%5Etfw">#Zimbabwe</a>.<br><br>Probably nothing. <a href="https://t.co/dwn5wi8p5F">https://t.co/dwn5wi8p5F</a></p>&mdash; Anita ⚡🏳️‍🌈 Bitcoin for Fairness (@anitaonl) <a href="https://twitter.com/anitaonl/status/1588486255972876288?ref_src=twsrc%5Etfw">November 4, 2022</a></blockquote> 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
