@@ -7,7 +7,7 @@ routes:
 date: 2022-12-12 8:00
 dateformat: 'Y-m-d H:i'
 summary: Bitcoin ist Hoffnung! Anita ist zu Gast beim Blocktrainer und berichtet aus erster Hand von der Lage in Afrika.
-thumbnail: _blocktrainer-Anita-Posch-interview-2022.jpg
+thumbnail: _blocktrainer-Anita--interview-2022.jpg
 template: article
 ---
 

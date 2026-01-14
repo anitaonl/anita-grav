@@ -7,7 +7,7 @@ routes:
 date: 2022-07-24 12:00
 dateformat: 'Y-m-d H:i'
 summary: We’re talking about my journey into Bitcoin, about writing my book, my work in Africa with Bitcoin for Fairness, EU regulation on crypto and my drive to educate.
-thumbnail: _f0019-anita-posch-cryptopulse.png
+thumbnail: _f0019-anita--cryptopulse.png
 template: article
 ---
 
