@@ -3,7 +3,7 @@ title: "Bitcoin basics: How to use bitcoin? A talk by Anita in Harare and Gaboro
 taxonomy:
     tags: [Blog, Learn Bitcoin, On the Ground, Bitcoin in Africa]
 routes:
-    default: '/bitcoin-basics-how-to-use-bitcoin-a-talk-by-anita-posch-in-africa'
+    default: '/bitcoin-basics-how-to-use-bitcoin-a-talk-by-anita-in-africa'
 date: 2020-02-15 12:00
 dateformat: 'Y-m-d H:i'
 summary: "Bitcoin introduction: What is Bitcoin? Use-cases for bitcoin BTC, how to prevent scams, how bitcoin works, bitcoin mining, what is a blockchain, install a bitcoin wallet, the lightning network explained"

@@ -3,7 +3,7 @@ title: Anita about Podcasting 2.0 on the Bitcoin Magazine Podcast
 taxonomy:
     tags: [Blog, Features, Lightning Network]
 routes:
-    default: '/anita-posch-about-podcasting-2-0-on-the-bitcoin-magazine-podcast'
+    default: '/anita-about-podcasting-2-0-on-the-bitcoin-magazine-podcast'
 date: 2021-02-26 12:00
 dateformat: 'Y-m-d H:i'
 summary: Keroles and Anita focused on new podcasting technology being built on top of the Bitcoin Lightning Network.
