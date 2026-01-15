@@ -1,5 +1,5 @@
 ---
-title: Daily Posts on Nostr
+title: Dailyish Posts on Nostr
 taxonomy:
     tags: [Blog, Dailyish]
 routes:
