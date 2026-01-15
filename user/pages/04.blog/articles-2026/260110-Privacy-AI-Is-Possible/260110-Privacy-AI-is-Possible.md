@@ -45,7 +45,7 @@ PayPerQ hides your identity in the purchasing process, but your prompts and conv
 
 ### Maple AI: privacy from sign-up to LLMs
 
-[Maple AI](https://trymaple.ai/) is the best solution I found. It runs on open source code and open models. It says it never uses your data to train AI, doesn’t log your chats, does zero data retention, and you can pay with Bitcoin. It offers many models (including OpenAI GPT-OSS — yes, OpenAI, but in a private way).
+[Maple AI](https://trymaple.ai/) is the best solution I found. It runs on open source code and open models. It says it never uses your data to train AI, doesn’t log your chats, does zero data retention, and you can pay with Bitcoin. It offers many models (including OpenAI GPT-OSS - yes, OpenAI, but in a private way).
 
 Maple AI states that communications are encrypted locally on your device before being transmitted, that their servers can’t read your data, and that even during processing the pipeline is designed with privacy as the priority.
 
