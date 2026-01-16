@@ -15,7 +15,7 @@ template: article
 
 This is an interview with me, Anita from the Access Tribe podcast. During this episode I'm talking about my Bitcoin journey, my work in the Global South, my book, and membership platform and I'm taking questions from the audience.
 
-<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://btcpodcasting.com/@anitaposch/episodes/podcast-access-tribe/embed/dark"></iframe>
+<iframe src="https://www.vodio.fr/frameplay.php?idref=25743&urlref=1" style="border: 0px none; box-shadow: rgba(0, 0, 0, 0.28) 0px 0px 10px; width: calc(100% - 10px); height: 180px; margin-left: 5px; padding: 0;" scrolling="no"></iframe>
 
 Access Tribe will inspire, educate, and connect you with other women in the Bitcoin world, accelerating your learning journey and opening the door of opportunity.
 
