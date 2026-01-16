@@ -34,7 +34,7 @@ Bitcoin is money from the people, for the people. Its mathematical rules can't b
 
 ## Social Media Platforms <a id="social-media"></a>
 
-Anita is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) as her main place to post and comment, she is using [Bluesky](https://bsky.app/profile/anita.link), sometimes [Twitter](https://twitter.com/anitaonl) (less and less since Elon Musk's take over) and very seldom [LinkedIn](https://www.linkedin.com/in/anitaonl/). Find over 400 videos by Anita on [YouTube](https://www.youtube.com/anitaonl) and her work on [GitHub](https://github.com/anitaonl) and [Medium](https://medium.com/@anitaonl).
+Anita is using [Nostr](https://iris.to/npub1tjkc9jycaenqzdc3j3wkslmaj4ylv3dqzxzx0khz7h38f3vc6mls4ys9w3) as her main place to post and comment, she is using [Bluesky](https://bsky.app/profile/anita.link), sometimes [Twitter](https://twitter.com/anitaonl) (less and less since Elon Musk's take over) and very seldom [LinkedIn](https://www.linkedin.com/in/anitaonl/). Find over 400 videos by Anita on [YouTube](https://www.youtube.com/@anitaonl) and her work on [GitHub](https://github.com/anitaonl) and [Medium](https://medium.com/@anitaonl).
 
 > Anita **is NOT on** Instagram, Facebook, Telegram, TikTok or any other platform and she **never asks you to invest, for your trades** or similar.
 
