@@ -1,0 +1,7 @@
+enabled: true
+limit: 500
+title: "Anita's Feed"
+description: 'List of my latest blog articles.'
+length: 500
+enable_json_feed: false
+show_last_modified: false
