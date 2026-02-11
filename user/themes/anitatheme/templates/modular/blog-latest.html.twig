@@ -5,7 +5,7 @@
             <p class="mt-2 text-lg leading-8 text-gray-600">Latest articles</p>
         </div>
         <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-            {% for p in page.find('/blog/articles-' ~ date("Y")).children.order('date', 'desc').slice(0, 3) %}
+            {% for p in page.find('/blog/articles-2026').children.order('date', 'desc').slice(0, 3) %}
             {% set first_heading = p.content|split('</h1>')|first %}
             <article class="flex flex-col items-start justify-start">
                 <div class="relative w-full">
