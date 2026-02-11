@@ -40,6 +40,8 @@ main_menu:
     children:
       - title: About Anita
         url: '/about'
+      - title: AI Usage
+        url: '/ai'
       - title: Bitcoin for Fairness
         url: '/#bff'
       - title: Media
