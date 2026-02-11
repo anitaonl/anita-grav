@@ -6,7 +6,7 @@ keywords: "Support, Bitcoin in Africa, Anita, Bitcoin for Fairness, Freedom Tech
 
 # Ways to Support Freedom Tech and Bitcoin Education
 
-Anita puts a lot of effort and work into the goal to share Bitcoin knowledge with as many people as possible especially in emerging countries. 
+I put a lot of effort and work into my goal to share Bitcoin knowledge with as many people as possible especially in emerging countries. 
 
 ## Donate Bitcoin to BFF Based in Zambia
 
