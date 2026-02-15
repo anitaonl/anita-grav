@@ -6,7 +6,7 @@ routes:
     default: '/nostr-daily'
 date: 2026-01-04 12:00
 dateformat: 'Y-m-d H:i'
-summary: Anita's Blog on Power, Agency and Tools
+summary: Anita's Blog on Power, Tools and Agency
 thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
