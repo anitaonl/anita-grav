@@ -7,7 +7,7 @@ routes:
 date: 2026-01-15 21:00
 dateformat: 'Y-m-d H:i'
 summary: Power cuts, corruption, inequality - symptoms of a broken system. Some are already opting out and rebuilding. Here's why that matters.
-thumbnail: Anita-Power-Agency-Tools.jpg
+thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
 

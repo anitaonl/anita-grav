@@ -7,7 +7,7 @@ routes:
 date: 2026-01-06 12:00
 dateformat: 'Y-m-d H:i'
 summary: When governments shut down the internet, Bitchat offers a way forward. Bluetooth-based messaging that puts power back in people's hands.
-thumbnail: Anita-Power-Agency-Tools.jpg
+thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
 

@@ -7,7 +7,7 @@ routes:
 date: 2026-01-10 12:00
 dateformat: 'Y-m-d H:i'
 summary: My privacy-minded take on using AI without giving up your data: why I avoid ChatGPT, and what Pay-Per-Q and Maple AI offer.
-thumbnail: Anita-Power-Agency-Tools.jpg
+thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
 

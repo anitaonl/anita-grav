@@ -7,7 +7,7 @@ routes:
 date: 2026-01-09 12:00
 dateformat: 'Y-m-d H:i'
 summary: How to secure your Bitcoin with hardware wallet devices including privacy and safety recommendations. 
-thumbnail: Anita-Power-Agency-Tools.jpg
+thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
 

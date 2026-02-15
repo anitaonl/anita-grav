@@ -7,7 +7,7 @@ routes:
 date: 2026-01-20 17:00
 dateformat: 'Y-m-d H:i'
 summary: Don't push against the status quo.
-thumbnail: Anita-Power-Agency-Tools.jpg
+thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
 

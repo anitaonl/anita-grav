@@ -7,7 +7,7 @@ routes:
 date: 2026-01-17 21:00
 dateformat: 'Y-m-d H:i'
 summary: Convenience has a price most people don't see until it's too late.
-thumbnail: Anita-Power-Agency-Tools.jpg
+thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
 

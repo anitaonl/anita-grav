@@ -7,7 +7,7 @@ routes:
 date: 2026-01-03 12:00
 dateformat: 'Y-m-d H:i'
 summary: Anita's Blog on Power, Agency and Tools
-thumbnail: Anita-Power-Agency-Tools.jpg
+thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
 

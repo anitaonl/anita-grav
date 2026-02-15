@@ -7,7 +7,7 @@ routes:
 date: 2026-01-21 20:00
 dateformat: 'Y-m-d H:i'
 summary: On the hidden architecture of services that were never designed to let you leave.
-thumbnail: Anita-Power-Agency-Tools.jpg
+thumbnail: Anita-Power-Tools-Agency.jpg
 template: article
 ---
 
