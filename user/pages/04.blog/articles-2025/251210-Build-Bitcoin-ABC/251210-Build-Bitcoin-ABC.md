@@ -18,7 +18,7 @@ template: article
 
 # Building Bitcoin for Africans, By Africans: Lessons From 5 Years on the Ground
 
-## Keynote Anita at Africa Bitcoin Conference 2025
+## Keynote at Africa Bitcoin Conference 2025
 
 In 2020, when I visited Zimbabwe the first time I found no Bitcoin-only education initiative on the African continent. Today there are more than 150. Sounds like an incredible success story, right? When you spend time on the ground you'll discover: the impact is often minimal, if it exists at all. Decades of foreign aid money and more or less good intentioned projects have led to expectations. 
 
