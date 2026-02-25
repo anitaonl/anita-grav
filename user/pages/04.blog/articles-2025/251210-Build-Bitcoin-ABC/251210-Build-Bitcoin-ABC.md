@@ -25,7 +25,7 @@ In 2020, when I visited Zimbabwe the first time I found no Bitcoin-only educatio
 
 In [our work with Bitcoin for Fairness on the ground](https://bffbtc.org/mission/impact/) we learned that paying people transport money and providing lunch is necessary otherwise they wouldn't show up to our free workshops. Data is expensive, often the connectivity is bad making online learning impossible for many. It's difficult to measure the impact of general Bitcoin education. What you'll find are graduation photos, celebrations, videos of onboarded merchants, copy-pasting initiatives and chasing funding.
 
-<iframe src="https://player.vimeo.com/video/1146293402?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="846" height="476" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Building Bitcoin for Africans, By Africans: Lessons From 5 Years on the Ground - ABC 2025"></iframe>
+<iframe src="https://player.vimeo.com/video/1146293402?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&dnt=1" width="846" height="476" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Building Bitcoin for Africans, By Africans: Lessons From 5 Years on the Ground - ABC 2025"></iframe>
 
 Many projects are adoption theatre, not real adoption. 
 
