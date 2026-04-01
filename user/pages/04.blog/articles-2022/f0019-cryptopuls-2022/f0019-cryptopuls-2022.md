@@ -1,5 +1,5 @@
 ---
-title: Advocating for Human Rights through Bitcoin - Anita on Cryptopulse - Ep. 160
+title: Advocating for Human Rights through Bitcoin - Anita on Cryptopulse
 taxonomy:
     tags: [Blog, Features, Bitcoin in Africa, Show, Human Rights]
 routes:
