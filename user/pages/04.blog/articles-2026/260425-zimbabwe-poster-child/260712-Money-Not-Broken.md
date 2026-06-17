@@ -3,7 +3,7 @@ title: Government Money Is Not Broken. It Works Exactly as Designed. Zimbabwe Pr
 taxonomy:
     tags: [Blog, Bitcoin in Africa, Zimbabwe, On the Ground]
 routes:
-    default: '/zimbabwe-inflation-bitcoin'
+    default: '/money-broken-zimbabwe'
 date: 2026-07-12 15:00
 dateformat: 'Y-m-d H:i'
 summary: A small group controls the money. They decide how much exists, who benefits, and who loses. Zimbabwe has proved where that leads - five times over. Bitcoin is the alternative.
