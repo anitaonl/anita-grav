@@ -20,4 +20,3 @@ I was a invited as an interview partner by singer, songwriter and longtime Block
 
 <iframe style="border: none;" src="//html5-player.libsyn.com/embed/episode/id/11652443/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/d2b980/" width="100%" height="90" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-![Anita on the Tatiana show](_f005-anita--guest-tatiana-show.png)
