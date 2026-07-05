@@ -68,7 +68,7 @@
         {% if blog_page %}
             {% for year_folder in blog_page.children() %}
                 {% for article in year_folder.children() %}
-                    {% if not (article.header.published is defined and article.header.published == false) %}
+                    {% if article.published() %}
                         {% set all_articles = all_articles|merge([article]) %}
                     {% endif %}
                 {% endfor %}
@@ -91,7 +91,7 @@
         {% set tagged_articles = [] %}
         {% if current_tag and current_tag != 'category' %}
             {% for article in all_articles %}
-                {% if not (article.header.published is defined and article.header.published == false) and article.taxonomy.tags %}
+                {% if article.published() and article.taxonomy.tags %}
                     {% for tag in article.taxonomy.tags %}
                         <!-- Compare both original and URL-friendly versions -->
                         {% set tag_slug = tag|lower|replace({' ': '-'}) %}

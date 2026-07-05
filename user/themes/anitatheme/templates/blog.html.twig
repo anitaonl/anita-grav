@@ -27,7 +27,7 @@
 
             <!-- Get all articles within each year folder and add year info to each article -->
             {% for article in year_folder.children() %}
-                {% if not (article.header.published is defined and article.header.published == false) %}
+                {% if article.published() %}
                     <!-- Add year information to the article for later grouping -->
                     {% set article_with_year = {
                         'article': article,

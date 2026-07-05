@@ -7,6 +7,42 @@ class Anitatheme extends Theme
 {
     // Access plugin events in this class
 
+    public static function getSubscribedEvents()
+    {
+        return [
+            'onPagesInitialized' => ['onPagesInitialized', 100],
+        ];
+    }
+
+    public function onPagesInitialized()
+    {
+        if ($this->isAdmin()) {
+            return;
+        }
+
+        $now = time();
+        $nextPublishTime = null;
+
+        foreach ($this->grav['pages']->all() as $page) {
+            $header = $page->header();
+
+            if ($page->template() !== 'article' || !isset($header->date)) {
+                continue;
+            }
+
+            $pageDate = $page->date();
+
+            if ($pageDate > $now) {
+                $page->published(false);
+                $nextPublishTime = $nextPublishTime === null ? $pageDate : min($nextPublishTime, $pageDate);
+            }
+        }
+
+        if ($nextPublishTime !== null) {
+            $this->grav['cache']->setLifeTime($nextPublishTime);
+        }
+    }
+
     public static function featherIcons()
     {
         return [
