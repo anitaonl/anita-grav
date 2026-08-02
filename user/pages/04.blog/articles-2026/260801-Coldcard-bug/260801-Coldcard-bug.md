@@ -4,7 +4,7 @@ taxonomy:
     tags: [Blog, Security, Wallets, Learn Bitcoin]
 routes:
     default: '/coldcard-exploit'
-date: 2026-08-02 00:40
+date: 2026-08-01 18:40
 dateformat: 'Y-m-d H:i'
 summary: Bitcoin itself is safe - only Coldcard affected
 thumbnail: _Anita--Show-Cover-700.png
