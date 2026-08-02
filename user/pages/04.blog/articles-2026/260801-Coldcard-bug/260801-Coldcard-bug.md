@@ -22,6 +22,7 @@ The manufacturers of the **Bitbox02, Trezor, Seedsigner, Jade, Bitkey, Foundati
 ​
 It turned out that there was a bug in the Coldcard firmware from 2021. If you created a seed back then, the Coldcard did not calculate the seed words as secure as it should. Someone found that bug with the help of AI and started to exploit it by guessing seed words and then stealing bitcoin by moving them to their own address.  
 ​
+
 **If you own a Coldcard you should move your funds as soon as possible. Especially when you don’t have an additional passphrase (this is not the device PIN).​**
 
 What all Coldcard users should do:
@@ -34,6 +35,7 @@ What all Coldcard users should do:
 - you will have access to your new wallet and can be sure, that the device works and you have the correct seed and passphrase
 - now move the rest of your funds from the Coldcard to the new device
 - do it in steps, if you feel insecure doing a high value transaction at once
+
 
 If you don’t have a different device at hand and you want to secure your funds fast then send them temporarily to a hot wallet until you receive a new hardware device.  
 - install Blue Wallet on your phone or Sparrow wallet on your computer
@@ -48,11 +50,13 @@ I do not recommend setting up a multi-signature wallet in a hurry. Although it o
 **As an affected Coldcard user please do your own research on that topic!** I am on vacation right now and wanted to send out this information fast!  
 ​
 Here are videos of what happened and tutorials:
+
 ​[https://www.youtube.com/watch?v=_ld5oX1LKas](https://www.youtube.com/watch?v=_ld5oX1LKas)​
 
 ​[https://www.youtube.com/watch?v=rf-9rf93OpE](https://www.youtube.com/watch?v=rf-9rf93OpE)​
 
-Here is Coldcard's statement:  
+Here is Coldcard's statement:
+
 ​[https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/)​  
 ​  
 Stay safe!
