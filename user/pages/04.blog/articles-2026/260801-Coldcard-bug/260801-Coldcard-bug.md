@@ -15,7 +15,8 @@ template: article
 ​
 On July 30th, users reported that their Bitcoin were being drained from their Coldcard wallets. I sent out this emergency email to my newsletter subscribers:
 
-This is **not a bug in Bitcoin**! Bitcoin is secure, it is a manufacturers software that had the problem.  
+This is **not a bug in Bitcoin**! Bitcoin is secure, it is a manufacturers software that had the problem.
+
 ​
 The manufacturers of the **Bitbox02, Trezor, Seedsigner, Jade, Bitkey, Foundation** all reported that their devices **are not affected!
 ​
