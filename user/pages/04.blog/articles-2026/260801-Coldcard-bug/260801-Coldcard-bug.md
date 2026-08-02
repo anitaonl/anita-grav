@@ -7,7 +7,7 @@ routes:
 date: 2026-08-01 18:40
 dateformat: 'Y-m-d H:i'
 summary: Bitcoin itself is safe - only Coldcard affected
-thumbnail: _Anita--Show-Cover-700.png
+thumbnail: coldcard-bug.jpg
 template: article
 ---
 
