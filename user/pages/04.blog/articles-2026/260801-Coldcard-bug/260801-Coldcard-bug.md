@@ -53,11 +53,13 @@ I am on vacation right now and wanted to send out this information fast!
 
 ​
 Here are videos of what happened and tutorials:
+
 ​[https://www.youtube.com/watch?v=_ld5oX1LKas](https://www.youtube.com/watch?v=_ld5oX1LKas)​
 
 ​[https://www.youtube.com/watch?v=rf-9rf93OpE](https://www.youtube.com/watch?v=rf-9rf93OpE)​
 
 Here is Coldcard's statement:
+
 ​[https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/)​  
 ​  
 Stay safe!
