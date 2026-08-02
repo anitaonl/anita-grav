@@ -47,9 +47,9 @@ If you don’t have a different device at hand and you want to secure your funds
 If you had your coins on an exchange before you moved them to the Coldcard, you KYCed yourself already back then, meaning you could move the coins back to the exchange temporarily.
 
 I do not recommend setting up a multi-signature wallet in a hurry. Although it offers more security than a single-sig it is not easy to set up and you need to practice it before you move funds into it.  
-​
 
-**As an affected Coldcard user please do your own research on that topic!** I am on vacation right now and wanted to send out this information fast!
+**As an affected Coldcard user please do your own research on that topic!**
+I am on vacation right now and wanted to send out this information fast!
 
 ​
 Here are videos of what happened and tutorials:
