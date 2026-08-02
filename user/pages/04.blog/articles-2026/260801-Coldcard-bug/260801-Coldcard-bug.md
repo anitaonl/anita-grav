@@ -13,13 +13,14 @@ template: article
 
 # Coldcard Bug - Bitcoin being stolen by AI attacker
 ​
-On July 30th, users reported that their Bitcoin were being drained from their Coldcard wallets. I sent out this emergency email to my newsletter subscribers:
+Starting July 30th, 2026 users reported that their Bitcoin were being drained from their Coldcard wallets. I sent out this emergency email to my newsletter subscribers:
 
 This is **not a bug in Bitcoin**! Bitcoin is secure, it is a manufacturers software that had the problem.
 
 ​
-The manufacturers of the **Bitbox02, Trezor, Seedsigner, Jade, Bitkey, Foundation** all reported that their devices **are not affected!
+The manufacturers of the **Bitbox02, Trezor, Seedsigner, Jade, Bitkey, Foundation** all reported that their devices **are not affected!**
 ​
+
 It turned out that there was a bug in the Coldcard firmware from 2021. If you created a seed back then, the Coldcard did not calculate the seed words as secure as it should. Someone found that bug with the help of AI and started to exploit it by guessing seed words and then stealing bitcoin by moving them to their own address.  
 ​
 
@@ -47,6 +48,7 @@ If you had your coins on an exchange before you moved them to the Coldcard, you 
 
 I do not recommend setting up a multi-signature wallet in a hurry. Although it offers more security than a single-sig it is not easy to set up and you need to practice it before you move funds into it.  
 ​
+
 **As an affected Coldcard user please do your own research on that topic!** I am on vacation right now and wanted to send out this information fast!  
 ​
 Here are videos of what happened and tutorials:
