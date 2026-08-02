@@ -21,8 +21,7 @@ This is **not a bug in Bitcoin**! Bitcoin is secure, it is a manufacturers soft
 The manufacturers of the **Bitbox02, Trezor, Seedsigner, Jade, Bitkey, Foundation** all reported that their devices **are not affected!**
 ​
 
-It turned out that there was a bug in the Coldcard firmware from 2021. If you created a seed back then, the Coldcard did not calculate the seed words as secure as it should. Someone found that bug with the help of AI and started to exploit it by guessing seed words and then stealing bitcoin by moving them to their own address.  
-​
+It turned out that there was a bug in the Coldcard firmware from 2021. If you created a seed back then, the Coldcard did not calculate the seed words as secure as it should. Someone found that bug with the help of AI and started to exploit it by guessing seed words and then stealing bitcoin by moving them to their own address.
 
 **If you own a Coldcard you should move your funds as soon as possible. Especially when you don’t have an additional passphrase (this is not the device PIN).​**
 
