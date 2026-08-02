@@ -49,16 +49,15 @@ If you had your coins on an exchange before you moved them to the Coldcard, you 
 I do not recommend setting up a multi-signature wallet in a hurry. Although it offers more security than a single-sig it is not easy to set up and you need to practice it before you move funds into it.  
 ​
 
-**As an affected Coldcard user please do your own research on that topic!** I am on vacation right now and wanted to send out this information fast!  
+**As an affected Coldcard user please do your own research on that topic!** I am on vacation right now and wanted to send out this information fast!
+
 ​
 Here are videos of what happened and tutorials:
-
 ​[https://www.youtube.com/watch?v=_ld5oX1LKas](https://www.youtube.com/watch?v=_ld5oX1LKas)​
 
 ​[https://www.youtube.com/watch?v=rf-9rf93OpE](https://www.youtube.com/watch?v=rf-9rf93OpE)​
 
 Here is Coldcard's statement:
-
 ​[https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/)​  
 ​  
 Stay safe!
