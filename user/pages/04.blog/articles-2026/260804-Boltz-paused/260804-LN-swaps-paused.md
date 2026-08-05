@@ -11,7 +11,7 @@ thumbnail: boltz-paused.png
 template: article
 ---
 
-# Your Lightning payment just failed - here is why
+# Aqua, Misty Breez, Bull Bitcoin and other wallets - Money temporarily unspendable - what to do now
 
 You open Aqua, Misty Breez or Bull Bitcoin to pay an invoice or receive money and it does not go through. It hangs, times out, or throws an error you have never seen before. Nothing is wrong with your money. Your bitcoin are secure. What is broken is the service behind it.
 
