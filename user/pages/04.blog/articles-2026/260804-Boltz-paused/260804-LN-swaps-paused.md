@@ -7,7 +7,7 @@ routes:
 date: 2026-08-04 18:40
 dateformat: 'Y-m-d H:i'
 summary: Your funds are secure, only Lightning payments and swaps are stuck. Here is what the error means and what to do while Boltz stays offline.
-thumbnail: boltz-paused.jpg
+thumbnail: boltz-paused.png
 template: article
 ---
 
