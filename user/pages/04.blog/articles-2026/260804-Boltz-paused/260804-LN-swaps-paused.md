@@ -1,5 +1,5 @@
 ---
-title: Aqua, Misty Breez, Bull Bitcoin and other wallets: Money temporarily unspendable
+title: Aqua, Misty Breez, Bull Bitcoin and other wallets - Money temporarily unspendable
 taxonomy:
     tags: [Blog, Security, Wallets, Learn Bitcoin]
 routes:
