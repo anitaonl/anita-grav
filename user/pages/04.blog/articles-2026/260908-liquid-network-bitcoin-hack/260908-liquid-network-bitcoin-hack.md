@@ -1,5 +1,5 @@
 ---
-title: Bug in the Liquid Network Lets Hacker Steal 4,000 Bitcoin
+title: Bug in the Liquid Network Lets Hackers Steal 4,000 Bitcoin
 taxonomy:
     tags: [Blog, Liquid, Bitcoin, Security, Lightning Network, Wallets, Commentary]
 routes:
@@ -11,11 +11,11 @@ thumbnail: liquid-network-bitcoin-hack.jpg
 template: article
 ---
 
-# Bug in the Liquid Network Lets Hacker Steal 4,000 Bitcoin
+# Bug in the Liquid Network Lets Hackers Steal 4,000 Bitcoin
 
 ## Federation Risks Exist, but They Were Not the Root Cause
 
-A hacker exploited a bug in the Elements software which is the codebase of the Liquid Network and stole 4,000 bitcoin on September 6, 2026. The Liquid Network and Blockstream acknowledged the hack and announced to halt the network until further notice.
+Hackers exploited a bug in the Elements software which is the codebase of the Liquid Network and stole 4,000 bitcoin on September 6, 2026. The Liquid Network and Blockstream acknowledged the hack and announced to halt the network until further notice.
 
 Early on September 7, I saw a message from a friend warning me of the situation, but it was already too late. The theft was done, the network was paused. That caused a lot of stress for all Liquid BTC owners including me as the backing of our funds evaporated. The amount of Liquid BTC I owned was still displayed in my wallet, but in fact I lost it all as the BTC held by the Liquid federation were gone.
 
@@ -40,13 +40,13 @@ I felt Liquid with its 15 member federation with an 11 out of 15 multisig disper
 That's why I used Aqua and Misty Breez in workshops and tutorials. No email, no phone number needed, and a seed as backup, which is exactly how Bitcoin works. I could teach the same principles that prepared people for the use of bitcoin as soon as they had enough funds to switch into self-custody either by opening a Lightning channel or doing an on-chain transaction.
 
 [Calle explained on Twitter](https://x.com/callebtc/status/2096877551884919120?s=20) (no official explanation has been given so far as things are not settled yet):
-Liquid has confidential transactions that hide the amounts for improved privacy. A bug in how these transactions are validated (in the Elements software) caused inflation of Liquid BTC (L-BTC) and allowed the hacker to empty the entire sidechain.
+Liquid has confidential transactions that hide the amounts for improved privacy. A bug in how these transactions are validated (in the Elements software) caused inflation of Liquid BTC (L-BTC) and allowed the hackers to empty the entire sidechain.
 
 
 I admit this incident humbled me - I never thought that a thing like this would happen on Liquid. That, of course, reminded me that every software can and will have bugs. In 2010 and 2018 inflation bugs occurred in Bitcoin. They were discovered and patched quickly.
 
 I was always thinking about the federation risk and weighed it in comparison to the single custodian risk, privacy improvements and the accessibility of bitcoin for users that use smaller amounts. In a way, I was not wrong - the federation did not cause the problem! It was the bug in the Elements software and possibly problems while patching the bug. (Speculation; we need to wait for an official statement. Here is [another technical explainer](https://x.com/wauzibauzi/status/2097306071928885304?s=20).)
 
-On September 7, 3,400 bitcoin were sent back after the hacker demanded that Blockstream and the other functionaries update the software and clean up all bugs. September 8, Blockstream announced that they are working on getting the service up and running again. It is unclear who will provide the missing 600 BTC and how Liquid users can and will be made whole again.
+On September 7, 3,400 bitcoin were sent back after the hackers demanded that Blockstream and the other functionaries update the software and clean up all bugs. September 8, Blockstream announced that they are working on getting the service up and running again. It is unclear who will provide the missing 600 BTC and how Liquid users can and will be made whole again.
 
 PS: Hopefully the system will be fully restored with all the funds. Then it's on everyone to decide if they want to peg-out their L-BTC to BTC or hold it on Liquid. But if you have been using [Misty Breez](https://breez.technology/misty), you HAVE to move your funds out asap as Misty Breez will no longer be available.
