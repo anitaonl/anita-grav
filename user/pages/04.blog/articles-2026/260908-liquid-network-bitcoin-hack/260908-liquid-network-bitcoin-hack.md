@@ -4,7 +4,7 @@ taxonomy:
     tags: [Blog, Liquid, Bitcoin, Security, Lightning Network, Wallets, Commentary]
 routes:
     default: '/liquid-hack'
-date: 2026-09-08 16:00
+date: 2026-09-08 15:00
 dateformat: 'Y-m-d H:i'
 summary: I used Liquid knowing the federation risk. When 4,000 bitcoin were stolen, a software bug was to blame, not the federation. Here is what I learned so far.
 thumbnail: liquid-network-bitcoin-hack.jpg
