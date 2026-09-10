@@ -25,7 +25,7 @@ Early on September 7, I saw a message from a friend warning me of the situation,
 
 ## What is Liquid?
 
-Liquid is a sidechain of Bitcoin. The currency on Liquid is L-BTC and any amount of L-BTC is pegged to the equivalent in BTC. Those bitcoin are backing the Liquid bitcoin and are held by a federation of 15 members, which are located in many different countries.
+[Liquid is a sidechain](https://my.cracktheorange.com/lightning-network/explainer-bitcoin-lightning-liquid-ecash/) of Bitcoin. The currency on Liquid is L-BTC and any amount of L-BTC is pegged to the equivalent in BTC. Those bitcoin are backing the Liquid bitcoin and are held by a federation of 15 members, which are located in many different countries.
 In principle this works similarly to the early times of banking, when gold was deposited at the bank and was always redeemable for banknotes and coins. The process of exchanging BTC to L-BTC is called a peg-in and swapping out to Bitcoin is a peg-out.
 Different to the Bitcoin network, which is decentralized and where everyone can use their self-custodied coins without the need for an intermediary at any time, the Liquid network is a federation.
 You can not independently peg-out of the network. You require a member of the federation to convert L-BTC back to BTC.
@@ -33,7 +33,7 @@ This need for an intermediary to peg-out was always the main criticism of Liquid
 
 ## Why did I use and advocate for Liquid?
 
-A seed alone is not giving you full self-custody. Why did I as a self-custody advocate use Liquid myself and even more onboard people to wallets like Aqua or Misty Breez that use Liquid in the background to facilitate Lightning payments?
+A seed alone is not giving you full self-custody. Why did I as a self-custody advocate use Liquid myself and even more onboard people to wallets like [Aqua](https://my.cracktheorange.com/wallets/aqua-wallet/) or Misty Breez that use Liquid in the background to facilitate Lightning payments?
 
 I'd absolutely prefer anyone around the world to be able to use on-chain Bitcoin and be in full control of their money, but this is only possible if Bitcoin were centralized. Real decentralized blockchains can not scale to the capacity of facilitating all payments globally. If it's centralized, we don't need Bitcoin, enough centralized services with all their flaws exist.
 
