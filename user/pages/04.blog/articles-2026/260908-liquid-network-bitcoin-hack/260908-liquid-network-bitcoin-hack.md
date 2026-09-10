@@ -17,6 +17,10 @@ template: article
 
 Hackers exploited a bug in the Elements software which is the codebase of the Liquid Network and stole 4,000 bitcoin on September 6, 2026. The Liquid Network and Blockstream acknowledged the hack and announced to halt the network until further notice.
 
+> Update: September 10, 2026
+> Scammers immediately used the Liquid hack to impersonate Liquid and Blockstream urging users to "take action". Do not do this!
+> Liquid and Blockstream are working on a solution. Just wait, from what I understand the network will be fully restored and your funds will be safe in a couple of days. 
+
 Early on September 7, I saw a message from a friend warning me of the situation, but it was already too late. The theft was done, the network was paused. That caused a lot of stress for all Liquid BTC owners including me as the backing of our funds evaporated. The amount of Liquid BTC I owned was still displayed in my wallet, but in fact I lost it all as the BTC held by the Liquid federation were gone.
 
 Liquid is a sidechain of Bitcoin. The currency on Liquid is L-BTC and any amount of L-BTC is pegged to the equivalent in BTC. Those bitcoin are backing the Liquid bitcoin and are held by a federation of 15 members, which are located in many different countries.
@@ -51,6 +55,3 @@ On September 7, 3,400 bitcoin were sent back after the hackers demanded that Blo
 
 PS: Hopefully the system will be fully restored with all the funds. Then it's on everyone to decide if they want to peg-out their L-BTC to BTC or hold it on Liquid. But if you have been using [Misty Breez](https://breez.technology/misty), you HAVE to move your funds out asap as Misty Breez will no longer be available.
 
-> Update: September 10, 2026
-> Scammers immediately used the Liquid hack to impersonate Liquid and Blockstream urging users to "take action". Do not do this!
-> Liquid and Blockstream are working on a solution. Just wait, from what I understand the network will be fully restored and your funds will be safe in a couple of days. 
