@@ -31,7 +31,7 @@ Different to the Bitcoin network, which is decentralized and where everyone can 
 You can not independently peg-out of the network. You require a member of the federation to convert L-BTC back to BTC.
 This need for an intermediary to peg-out was always the main criticism of Liquid. Despite owning a seed - exactly like in Bitcoin - you're not independent. Not your keys, not your coins.
 
-## Why did I use and advocate for Liquid?
+## Why did I use Liquid and advocate for it?
 
 A seed alone is not giving you full self-custody. Why did I as a self-custody advocate use Liquid myself and even more onboard people to wallets like [Aqua](https://my.cracktheorange.com/wallets/aqua-wallet/) or Misty Breez that use Liquid in the background to facilitate Lightning payments?
 
