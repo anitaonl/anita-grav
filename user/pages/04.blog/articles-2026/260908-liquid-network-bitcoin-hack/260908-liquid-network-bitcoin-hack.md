@@ -50,3 +50,7 @@ I was always thinking about the federation risk and weighed it in comparison to 
 On September 7, 3,400 bitcoin were sent back after the hackers demanded that Blockstream and the other functionaries update the software and clean up all bugs. September 8, Blockstream announced that they are working on getting the service up and running again. It is unclear who will provide the missing 600 BTC and how Liquid users can and will be made whole again.
 
 PS: Hopefully the system will be fully restored with all the funds. Then it's on everyone to decide if they want to peg-out their L-BTC to BTC or hold it on Liquid. But if you have been using [Misty Breez](https://breez.technology/misty), you HAVE to move your funds out asap as Misty Breez will no longer be available.
+
+> Update: September 10, 2026
+> Scammers immediately used the Liquid hack to impersonate Liquid and Blockstream urging users to "take action". Do not do this!
+> Liquid and Blockstream are working on a solution. Just wait, from what I understand the network will be fully restored and your funds will be safe in a couple of days. 
