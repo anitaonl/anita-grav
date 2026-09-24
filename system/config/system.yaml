@@ -101,6 +101,7 @@ cache:
   clear_images_by_default: false                 # By default grav does not include processed images in cache clear, this can be enabled
   cli_compatibility: false                       # Ensures only non-volatile drivers are used (file, redis, memcache, etc.)
   lifetime: 604800                               # Lifetime of cached data in seconds (0 = infinite)
+  purge_max_age_days: 30                         # Maximum age of cache items in days before they are purged
   gzip: false                                    # GZip compress the page output
   allow_webserver_gzip: false                    # If true, `content-encoding: identity` but connection isn't closed before `onShutDown()` event
   redis:
@@ -152,16 +153,20 @@ debugger:
   enabled: false                                 # Enable Grav debugger and following settings
   provider: clockwork                            # Debugger provider: debugbar | clockwork
   censored: false                                # Censor potentially sensitive information (POST parameters, cookies, files, configuration and most array/object data in log messages)
+  token: ''                                      # Shared secret a remote client must send as `X-Clockwork-Auth` to read `/__clockwork/` profiler data. Empty means loopback-only
   shutdown:
     close_connection: true                       # Close the connection before calling onShutdown(). false for debugging
 
 images:
+  adapter: gd                                    # Image adapter to use: gd | imagick
   default_image_quality: 85                      # Default image quality to use when resampling images (85%)
   cache_all: false                               # Cache all image by default
   cache_perms: '0755'                            # MUST BE IN QUOTES!! Default cache folder perms. Usually '0755' or '0775'
   debug: false                                   # Show an overlay over images indicating the pixel depth of the image when working with retina for example
   auto_fix_orientation: true                     # Automatically fix the image orientation based on the Exif data
   seofriendly: false                             # SEO-friendly processed image names
+  url_actions: false                             # Allow URL query-based image transforms (e.g. `image.jpg?resize=600,400`). Off by default; normal Twig/Markdown resizing is unaffected
+  max_pixels: 25000000                           # Total-pixel ceiling (width*height) for URL-based resize actions. Requests above this are refused. 0 disables the check
   cls:                                           # Cumulative Layout Shift: See https://web.dev/optimize-cls/
     auto_sizes: false                            # Automatically add height/width to image
     aspect_ratio: false                          # Reserve space with aspect ratio style

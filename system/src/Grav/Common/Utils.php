@@ -3,7 +3,7 @@
 /**
  * @package    Grav\Common
  *
- * @copyright  Copyright (c) 2015 - 2024 Trilby Media, LLC. All rights reserved.
+ * @copyright  Copyright (c) 2015 - 2025 Trilby Media, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
 
@@ -1457,13 +1457,17 @@ abstract class Utils
             $nonce = array_shift($nonce);
         }
 
+        if (!is_string($nonce)) {
+            return false;
+        }
+
         //Nonce generated 0-12 hours ago
-        if ($nonce === self::getNonce($action)) {
+        if (hash_equals(self::getNonce($action), $nonce)) {
             return true;
         }
 
         //Nonce generated 12-24 hours ago
-        return $nonce === self::getNonce($action, true);
+        return hash_equals(self::getNonce($action, true), $nonce);
     }
 
     /**
