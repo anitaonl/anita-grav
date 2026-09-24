@@ -1,0 +1,36 @@
+# Anita
+
+> Anita is a change maker and freedom tech advocate. She writes and speaks on how Bitcoin and decentralized technology support financial freedom, privacy, and human rights, drawing on years of firsthand experience across Africa and a long-running body of work at the intersection of Bitcoin and civil society.
+
+## About
+
+- [About Anita](https://anita.onl/about): Background, speaker info, and social profiles.
+- [AI Usage](https://anita.onl/ai): How AI is used in producing content on this site.
+
+## Writing
+
+- [Blog](https://anita.onl/blog): Commentary and analysis on Bitcoin, freedom tech, and human rights.
+- [Freedom Tech](https://anita.onl/category/freedom-tech): Writing on privacy-preserving and censorship-resistant technology.
+- [Human Rights](https://anita.onl/category/human-rights): The case for Bitcoin as a tool for civil society and individual rights.
+- [Commentary](https://anita.onl/category/commentary): Perspective on current events in Bitcoin, monetary policy, and freedom.
+
+## Speaking
+
+- [Keynotes & Talks](https://anita.onl/category/talks): Public speaking on Bitcoin, freedom, and financial sovereignty.
+- [Speaker Info](https://anita.onl/about#speaker): Booking and topics for talks and keynotes.
+
+## Podcast
+
+- [Featured Episodes](https://anita.onl/category/show): Conversations on Bitcoin's role in economic and personal freedom.
+
+## Background
+
+- [Bitcoin in Africa](https://anita.onl/category/bitcoin-in-africa): Reporting and reflection drawn from years of on-the-ground work across the continent.
+- [Bitcoin for Fairness](https://bffbtc.org/): The nonprofit Anita founded in 2022, focused on Bitcoin capacity-building in the Global South.
+- [(L)earn Bitcoin Book](https://learnbitcoin.link): A guide to Bitcoin's technical, economic, political, and social dimensions.
+
+## Optional
+
+- [Now](https://anita.onl/category/now): Recent updates on Anita's work.
+- [Media](https://anita.onl/category/features): Press coverage and features.
+- [Contact](https://anita.onl/contact): Get in touch.
