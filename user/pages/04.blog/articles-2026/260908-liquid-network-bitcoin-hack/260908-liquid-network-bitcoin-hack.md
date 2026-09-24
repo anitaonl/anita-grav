@@ -17,6 +17,9 @@ template: article
 
 Hackers exploited a bug in the Elements software which is the codebase of the Liquid Network and stole 4,000 bitcoin on September 6, 2026. The Liquid Network and Blockstream acknowledged the hack and announced to halt the network until further notice.
 
+> Update: September 24, 2026
+> It's been almost 3 weeks since a hacker stole 4,000 bitcoin from the Liquid Network. Today the company behind the software sent an update with a [detailed technical description of the incident](https://blog.blockstream.com/liquid-network-security-incident-assessment/). The most important piece still missing, both for a full restoration and for users to access their money through a peg-out to on-chain Bitcoin, is the return of the stolen funds. Blockstream seems to be waiting for the hacker to return the missing 600 BTC. The Liquid federation and [Blockstream's CEO Adam Back confirmed that the 600 BTC will be covered](https://x.com/adam3us/status/2098004282133864846?s=20). The only question is when.
+
 > Update: September 10, 2026
 > Scammers immediately used the Liquid hack to impersonate Liquid and Blockstream urging users to "take action". Do not do this!
 > Liquid and Blockstream are working on a solution. Just wait, from what I understand the network will be fully restored and your funds will be safe in a couple of days. 
