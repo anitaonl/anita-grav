@@ -9,7 +9,11 @@
 
 // Some standard defines
 define('GRAV', true);
+<<<<<<< Updated upstream
 define('GRAV_VERSION', '1.7.53.3');
+=======
+define('GRAV_VERSION', '1.7.53.4');
+>>>>>>> Stashed changes
 define('GRAV_SCHEMA', '1.7.53_2026-06-09_0');
 define('GRAV_TESTING', false);
 
