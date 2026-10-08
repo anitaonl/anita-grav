@@ -1,5 +1,5 @@
 ---
-title: A Win for Financial Privacy - "Unhosted wallets" are self-hosted wallets
+title: A Win for Financial Privacy - "Unhosted Wallets" Are Self-Hosted Wallets
 taxonomy:
     tags: [Blog, Privacy, Bitcoin, Human Rights, Wallets, Freedom Tech, Commentary]
 routes:
