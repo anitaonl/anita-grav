@@ -1,5 +1,5 @@
 ---
-title: A Win for Financial Privacy - "Unhosted Wallets" Are Self-Hosted Wallets
+title: A Win for Financial Privacy - "Unhosted Wallets" Are Self-Custodial Wallets
 taxonomy:
     tags: [Blog, Privacy, Bitcoin, Human Rights, Wallets, Freedom Tech, Commentary]
 routes:
@@ -11,7 +11,7 @@ thumbnail: small-privacy-win.jpg
 template: article
 ---
 
-# A Win for Financial Privacy - "Unhosted wallets" are self-hosted wallets
+# A Win for Financial Privacy - "Unhosted wallets" are self-custodial wallets
 
 The general direction seems to be to strip us of our right to financial privacy, but sometimes good news comes along. At the start of October 2026, two lingering privacy infringements were dropped in the US. Nonetheless, Samourai Wallet co-founder Keonne Rodriguez is serving a five-year prison sentence for building Bitcoin privacy software, while Tornado Cash developer Roman Storm still faces sentencing and a retrial over a comparable Ethereum tool.
 
@@ -35,11 +35,11 @@ The Travel Rule shows how this works. The US introduced it in 1996, requiring fi
 
 ### Unhosted wallets
 
-Let's start with the manipulative term "unhosted wallet". It sounds as if the wallet is somehow "left to its own devices" and sketchy, when it is simply a self-hosted wallet. FinCEN has used this term for self-custody, where you hold the keys to your bitcoin and own your funds without anyone being able to interfere in your transactions or stop you from spending. If you obtain bitcoin without a regulated exchange or bank that imposes KYC (Know Your Customer) identification on you, you do not have to hand your identity to a company.
+Let's start with the manipulative term "unhosted wallet". It sounds as if the wallet is somehow "left to its own devices" and sketchy, when it is simply a self-custodial wallet. FinCEN has used this term for self-custody, where you hold the keys to your bitcoin and own your funds without anyone being able to interfere in your transactions or stop you from spending. If you obtain bitcoin without a regulated exchange or bank that imposes KYC (Know Your Customer) identification on you, you do not have to hand your identity to a company.
 
-Self-hosted wallets are one of the backbones of Bitcoin. Alongside full node operators, miners and developers, people who hold their own keys are important stakeholders in the network. Making self-custody sound sketchy seems to be a tactic to influence people to keep their hands off it.
+Self-custodial wallets are one of the backbones of Bitcoin. Alongside full node operators, miners and developers, people who hold their own keys are important stakeholders in the network. Making self-custody sound sketchy seems to be a tactic to influence people to keep their hands off it.
 
-In December 2020, FinCEN proposed to expand bank-like surveillance to transactions involving self-hosted wallets. Banks and money services businesses would have had to report transactions with self-hosted wallets above $10,000 and keep records of those above $3,000. So even if you self-custody your bitcoin and are not a customer of an exchange, you would have had to identify yourself once you moved larger amounts through the traditional system. On October 5, 2026, FinCEN withdrew the proposal, a very important development for Bitcoin, financial independence and fairness.
+In December 2020, FinCEN proposed to expand bank-like surveillance to transactions involving self-custodial wallets. Banks and money services businesses would have had to report transactions with self-custodial wallets above $10,000 and keep records of those above $3,000. So even if you self-custody your bitcoin and are not a customer of an exchange, you would have had to identify yourself once you moved larger amounts through the traditional system. On October 5, 2026, FinCEN withdrew the proposal, a very important development for Bitcoin, financial independence and fairness.
 
 ### Crypto Mixing
 
