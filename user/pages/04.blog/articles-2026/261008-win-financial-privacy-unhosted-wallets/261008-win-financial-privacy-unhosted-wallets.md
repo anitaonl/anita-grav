@@ -54,8 +54,6 @@ A win for privacy, but let's not get too excited. FinCEN said it will take no fu
 - [Universal Declaration of Human Rights, Article 12](https://www.un.org/en/about-us/universal-declaration-of-human-rights) (United Nations)
 - [FinCEN, withdrawal of the proposed rule on requirements for certain transactions involving convertible virtual currency or digital assets (unhosted wallets)](https://public-inspection.federalregister.gov/2026-20430.pdf) (Federal Register)
 - [FinCEN, withdrawal of the proposed special measure on convertible virtual currency mixing](https://public-inspection.federalregister.gov/2026-20429.pdf) (Federal Register)
-- [FinCEN withdraws unhosted wallet and mixer surveillance rules](https://www.tftc.io/fincen-withdraws-unhosted-wallet-mixer-surveillance-rules-2026) (TFTC)
-- [FinCEN withdraws crypto wallet and mixer rules](https://www.thecoinrepublic.com/2026/10/06/u-s-treasury-news-fincen-withdraws-crypto-wallet-mixer-rules/) (The Coin Republic)
 - [Roman Storm's Tornado Cash retrial pushed to April 2027](https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027) (Decrypt)
 - [Senior programmer at Russia's internet regulator is sentenced for donation to the Anti-Corruption Foundation](https://meduza.io/en/news/2026/08/24/senior-programmer-at-russia-s-internet-regulator-is-sentenced-for-donation-to-navalny-s-anti-corruption-foundation) (Meduza)
 - [HRF's Weekly Financial Freedom Report 136](https://hrf.org/latest/hrfs-weekly-financial-freedom-report-136/) (Human Rights Foundation)
