@@ -11,7 +11,7 @@ thumbnail: small-privacy-win.jpg
 template: article
 ---
 
-# A Win for Financial Privacy - "Unhosted wallets" are self-custodial wallets
+# A Win for Financial Privacy - "Unhosted Wallets" Are Self-Custodial Wallets
 
 The general direction seems to be to strip us of our right to financial privacy, but sometimes good news comes along. At the start of October 2026, two lingering privacy infringements were dropped in the US. Nonetheless, Samourai Wallet co-founder Keonne Rodriguez is serving a five-year prison sentence for building Bitcoin privacy software, while Tornado Cash developer Roman Storm still faces sentencing and a retrial over a comparable Ethereum tool.
 
