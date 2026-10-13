@@ -15,7 +15,7 @@ template: article
 
 In Asia and Europe, manipulated Ledger hardware devices have been found. It seems that about 100 million USD has been lost so far. Here is what's important:
 
-If you bought your device directly from Ledger, you are safe (at least I have heard of no other cases). This is a supply chain attack. Authorized resellers seem to have sold manipulated devices that contain additional cables and an LTE module. The LTE module lets the perpetrators send information from the Ledger to themselves. Which information? The seed phrase! The manipulated devices can read what the Ledger's screen shows. If the thieves record the screen while you set up the wallet, they can use your seed phrase to get access to your funds.
+If you **bought your device directly from Ledger, you are safe** (at least I have heard of no other cases). This is a supply chain attack. Some **authorized resellers seem to have sold manipulated devices** that contain additional cables and an LTE module. The LTE module lets the perpetrators send information from the Ledger to themselves. Which information? The seed phrase! The manipulated devices can read what the Ledger's screen shows. If the thieves record the screen while you set up the wallet, they can use your seed phrase to get access to your funds.
 
 It is absolutely insane that this is possible. Ledger has disqualified itself many times over the years. Now it seems Ledger does not check thoroughly enough what its "authorized resellers" sell. After leaking users' personal data several times, this is a new low. In 2020, my home address leaked together with the information that I had bought a Ledger. Luckily I was planning to move anyway, but I still spent months afraid that someone might want to rob me. I never touched or recommended Ledger again.
 
@@ -25,7 +25,7 @@ Someone bought a Ledger at a MediaMarkt (in Germany, I assume) and found cables 
 
 [Post on X: a Ledger bought at MediaMarkt with cables and an LTE module inside](https://x.com/0xJohannes_/status/2109634513957527974?s=20)
 
-Here is a list of resellers to watch. It includes MediaMarkt and Saturn, two of the biggest electronics stores in Austria and Germany:
+Here is a list of resellers to watch. It includes **MediaMarkt and Saturn, two of the biggest electronics stores in Austria and Germany**:
 
 [![Ledger resellers to watch: official resellers in Asia and Europe that could be at risk](resellers.jpeg)](https://x.com/Darkfost_Coc/status/2109715099220861117?s=20)
 
