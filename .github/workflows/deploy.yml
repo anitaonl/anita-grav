@@ -41,7 +41,19 @@ jobs:
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
-          EXCLUDE: "/user/themes/anitatheme/node_modules/, .ddev, /.git/, /.github/, /user/accounts, /user/config/security.yaml, /webserver-configs, /backup, /cache, /images, /tmp, CHANGELOG.md"
+          EXCLUDE: "/user/pages/, /user/themes/anitatheme/node_modules/, .ddev, /.git/, /.github/, /user/accounts, /user/config/security.yaml, /webserver-configs, /backup, /cache, /images, /tmp, CHANGELOG.md"
+
+      # Mirror page content separately so renamed/deleted pages disappear on the server.
+      # Keep deletion scoped to user/pages; the full-site upload preserves server-only files.
+      - name: Sync Pages to Server
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          ARGS: "-rlDzvc -i --delete"
+          SOURCE: "user/pages/"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: "${{ secrets.REMOTE_TARGET }}/user/pages/"
           SCRIPT_AFTER: |
             echo "script after run"
             cd anita.onl
